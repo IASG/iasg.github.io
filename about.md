@@ -1,11 +1,30 @@
 ---
 layout: page
-title: About
+title: About IASG
 permalink: /about/
 ---
+The Information Assurance Student Group (IASG)
+at Iowa State University holds weekly meetings on information
+security topics. These meetings consist of convention-style
+presentations about various infosec-related topics including
+hacking, exploits, recent vulnerabilities in the news,
+webapp vulnerabilities, and general hacker subjects such as 
+radio, operating systems, and networking.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We often feature guest speakers from the security field, as well
+as offer introductory-level presentations for those interested in
+security, but without an extensive background in designing
+and building information systems.
+    
+Meeting Information
+-------------------
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+**Time:** 5:15 PM each Tuesday
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**Location:** TBA for Fall 2015
+
+
+Mailing List Information
+------------------------
+IASG maintains an active mailing list for meeting announcements, topics, and
+other information. Contact <{{ site.email }}> to be added to the mailing list.
