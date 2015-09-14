@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Tuesday, September 15 Meeting"
+date:   2015-09-14 14:36:10
+categories: meetings september 15 2015
+excerpt: >
+   IASG will meet tomorrow, September 15 at 5:15 PM in Coover 2245.
+---
+September 15 Meeting
+-------------------------
+IASG will meet tomorrow, September 15 at 5:15 PM in Coover 2245.  Jake Drahos will give an introduction and demonstration of several forms on injection vulnerabilities and Keane O'Kelley will present on open wireless networks and man-in-th-middle attacks.
