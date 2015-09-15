@@ -2,7 +2,7 @@
 layout: post
 title:  "New Website Live, Room TBA for Fall 2015"
 date:   2015-05-11 17:13:10
-categories: website room email
+categories: announcements
 excerpt: >
     IASG has a new website created using te Jekyll static site generator. We
     are also in the process of getting our room assignment for Fall and are interested
