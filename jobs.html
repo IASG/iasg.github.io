@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Jobs
 ---
 
 <div class="home">
@@ -8,7 +9,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.tags.include? "job" %}
+      {% if post.categories contains 'job' %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
   
