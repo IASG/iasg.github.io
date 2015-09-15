@@ -2,7 +2,7 @@
 layout: post
 title:  "Meeting Times and Locations"
 date:   2015-09-09 16:46:10
-categories: room meetings times
+categories: announcements
 excerpt: >
    IASG will meet on Tuesdays at 5:15pm in Coover 2245 for the Fall 2015 semester.  Our first meeting will be Tuesday, Sept. 15.
 ---
