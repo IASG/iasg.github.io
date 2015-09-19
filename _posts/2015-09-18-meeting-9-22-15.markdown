@@ -4,7 +4,7 @@ title:  "9/22: 'Perimeter Security is Dead, Hack the Users Instead' with PwC Cyb
 date:   2015-09-18 23:10:10
 categories: meetings
 excerpt: >
-   IASG will meet on Tuesday, September 22 at 5:15 PM in Coover 2245.  Representatives from PricewaterhouseCoopers Cybersecurity and Privacy will be presenting on 'Perimeter Security is Dead, Hack the Users Instead" with PwC Cybersecurity & Privacy'"
+   IASG will meet on Tuesday, September 22 at 5:15 PM in Coover 2245.  Representatives from PricewaterhouseCoopers Cybersecurity and Privacy will be presenting on 'Perimeter Security is Dead, Hack the Users Instead'"
 ---
 September 22 Meeting
 -------------------------
