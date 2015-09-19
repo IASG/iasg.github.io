@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "9/22: Perimeter Security is Dead, Hack the Users Instead" with PwC Cybersecurity & Privacy"
+title:  "9/22: 'Perimeter Security is Dead, Hack the Users Instead' with PwC Cybersecurity & Privacy"
 date:   2015-09-18 23:10:10
 categories: meetings
 excerpt: >
