@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "9-22: Perimeter Security is Dead, Hack the Users Instead" with PwC Cybersecurity & Privacy"
+date:   2015-09-18 23:10:10
+categories: meetings
+excerpt: >
+   IASG will meet on Tuesday, September 22 at 5:15 PM in Coover 2245.  Representatives from PricewaterhouseCoopers Cybersecurity and Privacy will be presenting on 'Perimeter Security is Dead, Hack the Users Instead" with PwC Cybersecurity & Privacy'"
+---
+September 22 Meeting
+-------------------------
+Members from PwC Cybersecurity & Privacy consulting practice will give an overview of their firm, current opportunities, and work they perform including, penetration testing, breach response, social engineering, and physical security assessments. Following the overview, PwC will give a technical lecture and demonstrate how end users are the weakest link in the security chain, and what we can do about it.
