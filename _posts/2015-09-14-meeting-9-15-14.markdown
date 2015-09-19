@@ -4,8 +4,12 @@ title:  "Tuesday, September 15 Meeting"
 date:   2015-09-14 14:36:10
 categories: meetings
 excerpt: >
-   IASG will meet tomorrow, September 15 at 5:15 PM in Coover 2245.  Jake Drahos will give an introduction of and demonstration to several forms on injection vulnerabilities and Keane O'Kelley will present on open wireless networks and man-in-the-middle attacks.
+   IASG met September 15 at 5:15 PM in Coover 2245.  Jake Drahos gave an introduction of and demonstration to several forms on injection vulnerabilities and Keane O'Kelley presented on open wireless networks and man-in-the-middle attacks.
 ---
 September 15 Meeting
 -------------------------
-IASG will meet tomorrow, September 15 at 5:15 PM in Coover 2245.  Jake Drahos will give an introduction of and demonstration to several forms on injection vulnerabilities and Keane O'Kelley will present on open wireless networks and man-in-the-middle attacks.
+IASG met September 15 at 5:15 PM in Coover 2245.  Jake Drahos gave an introduction of and demonstration to several forms on injection vulnerabilities and Keane O'Kelley presented on open wireless networks and man-in-the-middle attacks.  Below are the slides from these presentations:
+
+[Fun With WiFi & MitM](https://docs.google.com/presentation/d/1IWAkPzt6m8VH81e13DSVmPwVNt-yAphEdSo55gfW7Gw/edit?usp=sharing)
+
+[Injection](https://docs.google.com/a/iastate.edu/presentation/d/1MDQPqbDbeFAw-vfBd1yMoYjq3gu1nlF8rxOrsi_8ldA/edit?usp=sharing)
