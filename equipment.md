@@ -1,3 +1,8 @@
+---
+layout: page
+title: Equipment Policy
+permalink: /equipment/
+---
 # Purpose
 
 The purpose of IASG device checkout is to allow IASG members the opportunity
