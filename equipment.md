@@ -3,7 +3,7 @@ layout: page
 title: Equipment Policy
 permalink: /equipment/
 ---
-# Purpose
+## Purpose
 
 The purpose of IASG device checkout is to allow IASG members the opportunity
 to experiment with and explore technology, then share the experience
@@ -22,23 +22,23 @@ Another facet of equipment check-out is target devices. With the advent of the s
 consumer products often have security issues, and represent a good opportunity for
 low-hanging fruit with real-world security impact.
 
-# Acquisitions
+## Acquisitions
 
 Preference will be given to devices that can be reused for multiple experiments or presentations. 
 If it is a device that will be hacked, low cost is a priority.
 
-# Inventory
+## Inventory
 
 A current list of available equipment is maintained on the IASG website.
 
-# Policy
+## Policy
 
-## Checkout Procedures
+# Checkout Procedures
 Contact the IASG President or Equipment Chair to check out equipment. The Equipment Chair
 will maintain an inventory and log of what equipment is checked out, the dates, and to 
 whom.
                                                                                                                                                                                                 
-## Duration                                                                                                                                                                                     
+# Duration                                                                                                                                                                                     
                                                                                                                                                                                                 
 IASG equipment is checked out for a base two week duration. This can be extended at the                                                                                                         
 discretion of the Equipment Chair following contact prior to the due date.                                                                                                                      
@@ -51,7 +51,7 @@ Do not use any IASG loaner equipment in a way contrary to any university policie
 
 Stay safe, and stay legal. 
 
-### Firmware modification
+# Firmware modification
 
 Firmware modification is often a risky operation that has a decent chance of
 resulting in bricked hardware. Firmware modifications are disallowed as a 
@@ -83,7 +83,7 @@ capabilities can be very exciting and educational. However, care must
 be taken to follow the FCC regulations. This is especially true of software-defined
 radios, but applies to consumer wireless devices as well.
 
-### Restrictions
+# Restrictions
 1. Devices which are subject to these restrictions will have the "RF Restrictions" section
 filled out on the checkout form, with any exceptions noted.
 
@@ -94,7 +94,7 @@ specifically includes software-defined radio transceivers.
 
 4. No IASG member may modify the RF functionality of any device firmware.
 
-### Exceptions
+# Exceptions
 
 1. Off-the-shelf certified devices may be used as intended by the manufacturer. This
 exception specifically applies to 47 CFR Part 15 devices such as:
