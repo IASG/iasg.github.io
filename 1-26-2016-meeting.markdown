@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Tuesday, January 26 Meeting - Even more fun with MitM"
+date:   2016-01-26 14:36:10
+categories: meetings
+excerpt: >
+   Tomorrow night IASG will be presenting "Even more fun with MitM". When an attacker is on your network, nothing is safe, especially not your precious downloads. Learn how MitM attacks can be leveraged to patch and exploit binaries in real time as they are being downloaded.
+---
+Tomorrow night IASG will be presenting "Even more fun with MitM". When an attacker is on your network, nothing is safe, especially not your precious downloads. Learn how MitM attacks can be leveraged to patch and exploit binaries in real time as they are being downloaded over the network, and what measures can be taken to prevent these attacks.
+
+The meeting will be in Coover 2245 by 5:15pm tomorrow, 26th January, 2016.
+Following the presentation, there will be a Lab Jam in Coover 1012 where we will explore these concepts in more depth.
+
+We hope to see you there!
