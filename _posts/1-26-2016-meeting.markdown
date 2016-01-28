@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tuesday, January 26 Meeting - Even more fun with MitM"
-date:   2016-01-27 
+
 categories: meetings
 excerpt: >
    On Tuesday night, Keane presented "Even more fun with MitM". When an attacker is on your network, nothing is safe, especially not your precious downloads. Learn how MitM attacks can be leveraged to patch and exploit binaries in real time as they are being downloaded.
