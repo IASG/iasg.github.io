@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tuesday, Februrary 01 Meeting - Guest Presentation"
-date:   2016-02-02 14:22:05
+title:  "Tuesday, Februrary 02 Meeting - Guest Presentation"
+date:   2016-02-01 14:22:05
 categories: meetings
 excerpt: >
   Tomorrow at IASG, we will have a guest presentation from a Special Agent who has been with the FBI since 2009
