@@ -4,14 +4,14 @@ title:  "Tuesday, Februrary 02 Meeting - Guest Presentation"
 date:   2016-02-01 14:22:05
 categories: meetings
 excerpt: >
-  Tomorrow at IASG, we will have a guest presentation from a Special Agent who has been with the FBI since 2009
+  On Tuesday, Februrary 02 Meeting, we had a guest presentation from a Special Agent who has been with the FBI since 2009
 ---
-Tomorrow at IASG, we will have a guest presentation:
+On Tuesday, Februrary 02 Meeting, we had a guest presentation:
 
 **Bio:** Special Agent Loyd has been with the FBI since 2009.  He conducts investigations into computer intrusions with criminal and national security focus.  Prior to being assigned to Cyber investigations in mid-2010, SA Loyd conducted operations targeting organized crime entities in the New York area.  Prior to the FBI, SA Loyd served as a Network Manager for six years.
 
  
-**Abstract:** This presentation details the FBI’s current cyber mission as it pertains to criminal, counterintelligence, and counterterrorism computer intrusions and related threats.  This presentation will also include a case brief on an investigation where the FBI's resources were leveraged to identify, locate, and arrest global cyber criminals.
+**Abstract:** This presentation detailed the FBI’s current cyber mission as it pertains to criminal, counterintelligence, and counterterrorism computer intrusions and related threats.  This presentation will also include a case brief on an investigation where the FBI's resources were leveraged to identify, locate, and arrest global cyber criminals.
 
-The meeting will be in Coover 2245 by 5:15pm Tuesday, 2nd February, 2016.
-Following the presentation, there will be a Lab Jam in Coover 1012 on Kali Linux .
+The meeting was in Coover 2245 by 5:15pm Tuesday, 2nd February, 2016.
+Following the presentation, there was be a Lab Jam in Coover 1012 on Kali Linux .
