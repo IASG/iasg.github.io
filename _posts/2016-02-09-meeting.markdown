@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Tuesday, Februrary 09 Meeting - Reverse-Engineering a Web API Part 1: Tools, Techniques, and Background"
-date:   2016-02-09 14:22:05
+date:   2016-02-08 14:22:05
 categories: meetings
 excerpt: >
-  On Tuesday, Februrary 08 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs
+  On Tuesday, Februrary 09 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs
 ---
-On Tuesday, Februrary 08 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs:
+On Tuesday, Februrary 09 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs:
 
   This talk will provide some background and an introduction to reverse engineer a private web API used by a mobile application. Many applications rely on an API, which is not exposed to the user. What happens when we start talking directly to this API?
 
