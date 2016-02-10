@@ -4,13 +4,13 @@ title:  "Tuesday, Februrary 09 Meeting - Reverse-Engineering a Web API Part 1: T
 date:   2016-02-08 14:22:05
 categories: meetings
 excerpt: >
-  On Tuesday, Februrary 09 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs
+  On Tuesday, Februrary 09 Meeting, Jake Drahos presented on Reverse Engineering Web APIs
 ---
-On Tuesday, Februrary 09 Meeting, Jake Drahos will be presenting on Reverse Engineering Web APIs:
+On Tuesday, Februrary 09 Meeting, Jake Drahos presented on Reverse Engineering Web APIs:
 
-  This talk will provide some background and an introduction to reverse engineer a private web API used by a mobile application. Many applications rely on an API, which is not exposed to the user. What happens when we start talking directly to this API?
+  This talk provided some background and an introduction to reverse engineer a private web API used by a mobile application. Many applications rely on an API, which is not exposed to the user. What happens when we start talking directly to this API?
 
-Following the presentation, there will be a Lab Jam in Coover 1012 where you can go hands-on with these topics, and/or play with the IASG virtual environment.
+Following the presentation, there was a Lab Jam in Coover 1012 where you can go hands-on with these topics, and/or play with the IASG virtual environment.
 
 Additionally, this Saturday is the National Cyber Defense Competition at Iowa State. For the first time ever, the CDC is augmented with a Cyber-Physical aspect, addressing security concerns with SCADA in addition to the web. ISEAGE is looking for Green Team volunteers to help out at the competition. You can sign up [here](https://docs.google.com/forms/d/1ATftRcIRt7rQW_EFwc0sPnTZhsRp6q3k2Iqb6O0x9F8/viewform). 
 
