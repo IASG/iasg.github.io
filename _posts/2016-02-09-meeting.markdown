@@ -12,6 +12,8 @@ On Tuesday, Februrary 09 Meeting, Jake Drahos presented on Reverse Engineering W
 
 Following the presentation, there was a Lab Jam in Coover 1012 where you can go hands-on with these topics, and/or play with the IASG virtual environment.
 
+This is the [presentation](https://docs.google.com/presentation/d/1DVsHj7bnhm67njFSga6rexSw9beC49_VWzbcSPyLqHc/edit?usp=sharing) of the meeting.
+
 Additionally, this Saturday is the National Cyber Defense Competition at Iowa State. For the first time ever, the CDC is augmented with a Cyber-Physical aspect, addressing security concerns with SCADA in addition to the web. ISEAGE is looking for Green Team volunteers to help out at the competition. You can sign up [here](https://docs.google.com/forms/d/1ATftRcIRt7rQW_EFwc0sPnTZhsRp6q3k2Iqb6O0x9F8/viewform). 
 
 If you are going, good luck at the career fair tomorrow!
