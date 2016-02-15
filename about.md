@@ -21,14 +21,15 @@ Meeting Information
 
 **Time:** 5:15 PM each Tuesday
 
-**Location:** Coover 2245 for Fall 2015
+**Location:** Coover 2245 for Spring 2016
 
 
 Mailing List Information
 ------------------------
 
 IASG maintains an active mailing list for meeting announcements, topics, and
-other information. Contact <{{ site.email }}> to be added to the mailing list.
+other information. Send a blank e-mail to iasg-join@iastate.edu to join the mailing list.
+
 
 Slack Chatroom
 --------------
@@ -38,3 +39,7 @@ between meetings. It's worth joining, since people will occasionally post cool
 tricks, news stories, and other infosec things in the channel. All you need to
 sign up at <https://iasg.slack.com> is
 an @iastate.edu email address.
+
+Contact Information
+--------------
+Contact <{{ site.email }}> if you have any questions or suggestions.
