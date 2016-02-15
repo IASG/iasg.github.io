@@ -28,7 +28,7 @@ Mailing List Information
 ------------------------
 
 IASG maintains an active mailing list for meeting announcements, topics, and
-other information. Send a blank e-mail to iasg-join@iastate.edu to join the mailing list.
+other information. Send a blank e-mail to <iasg-join@iastate.edu> to join the mailing list.
 
 
 Slack Chatroom
