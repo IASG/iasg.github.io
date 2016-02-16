@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Tuesday, Februrary 16 Meeting - Metasploit for the <u>Ethical Hacker</u>"
+date:   2016-02-16 14:22:05
+categories: meetings
+excerpt: >
+  Today, Tuesday, Februrary 16 Meeting, Dan Frese will be giving a presentation on the Metasploit Framework.
+---
+Today, Tuesday, Februrary 16 Meeting, Dan Frese will be giving a presentation on the Metasploit Framework. Here's a quick description of what he will be talking about:
+
+ This talk will provide some background and will serve as introduction to Metasploit, the Swiss army knife of hacking. There will be two demos addressing the methods of interfacing with Metasploit and provide some basic insight as to how Metasploit is structured.
+
+Following the main meeting, Jake Drahos will be holding a Beginner's Night to go over the OSI Model; one of the fundamental concepts in networking. This will take place at approximately 6:15 in Coover 1012.
+
+If you are interested in borrowing any equipment (i.e. software defined radios, wireless adapters, etc.) from the club, come and talk to us, and we can help you get started.
+
+Also, IASG now has its own virtualized playground for club members, similar to what you get to play with in a Cyber Defense Competition. The environment is very open and there will be vulnerable images to play with/hack. If you would like access to this environment, send us an email or talk to us after the meeting.
+
+Hope to see you at 5:15 in Coover 2245!
