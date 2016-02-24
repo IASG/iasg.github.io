@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Wednesday, Februrary 24 Meeting - General Mills Presentation"
+date:   2016-02-23 14:22:05
+categories: meetings
+excerpt: >
+  Tomorrow, Wednesday, Februrary 24 Meeting, General Mills will be visiting IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
+---
+General Mills Presentation
+-------------------
+Tomorrow, Wednesday, Februrary 24 Meeting, General Mills will be visiting IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
+
+This week, we will NOT be meeting on Tuesday, BUT on Wednesday instead (I know, it's weird). This is because General Mills will be presenting.
+
+
+Spring ISU Cyber Defense Competition (Saturday, March 26th)
+-------------------
+
+
+It's that time of year already! Signup for the Spring 2016 ISU CDC has officially opened. To get started, [create an account](signup.iseage.org) and begin forming your teams. Next week, the CDC staff will have a kick-off meeting where competitors will receive help finding teams. Additionally, remote setup will open at the end of next week. If you sign up on the website, you will receive more details on the kick-off meeting and remote setup, so please do so even if you do not have a team yet.
+
+The competition will take place all day Saturday, March 26th in the Coover TLA (1313).
+
+CDCs are a fun way to learn more about cybersecurity. If you are new to the CDC or are looking for more information, visit cdc.iseage.org or email <cdc_support@iastate.edu>.
+
+Other Announcements
+-------------------
+If you are interested in borrowing any equipment (i.e. software defined radios, wireless adapters, etc.) from the club, come and talk to us, and we can help you get started.
+
+Also, IASG now has its own virtualized playground for club members, similar to what you get to play with in a Cyber Defense Competition. The environment is very open and there will be vulnerable images to play with/hack. If you would like access to this environment, send us an email or talk to us after the meeting.
+
+Hope to see you at 5:15 in Coover 2245!
