@@ -21,7 +21,7 @@ It's that time of year already! Signup for the Spring 2016 ISU CDC has officiall
 
 The competition will take place all day Saturday, March 26th in the Coover TLA (1313).
 
-CDCs are a fun way to learn more about cybersecurity. If you are new to the CDC or are looking for more information, visit cdc.iseage.org or email <cdc_support@iastate.edu>.
+CDCs are a fun way to learn more about cybersecurity. If you are new to the CDC or are looking for more information, visit cdc.iseage.org or email cdc_support@iastate.edu.
 
 Other Announcements
 -------------------
