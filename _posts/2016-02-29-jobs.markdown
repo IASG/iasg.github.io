@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Job Opening at SHAZAM"
+date:   2016-02-29 14:22:05
+categories: jobs
+excerpt: >
+   Job Opening at SHAZAM
+---
+
+##Job Opening at SHAZAM##
+
+SHAZAM is in search of someone with red team and/or blue team experience who is looking for a full time job. The link below provides the information. This person would conduct internal and external network assessments, phishing engagements, web application assessments, penetration testing, and security consulting services for our clients. 
+
+
+
+Check this [website](http://chk.tbe.taleo.net/chk04/ats/careers/requisition.jsp?org=SHAZAM&cws=1&rid=188) for more information.
