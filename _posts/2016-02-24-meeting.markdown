@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Wednesday, Februrary 24 Meeting - General Mills Presentation"
-date:   2016-02-23 14:22:05
+date:   2016-02-24 14:22:05
 categories: meetings
 excerpt: >
-  Tomorrow, Wednesday, Februrary 24 Meeting, General Mills will be visiting IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
+  Wednesday, Februrary 24 Meeting, General Mills visited IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
 ---
 General Mills Presentation
 -------------------
-Tomorrow, Wednesday, Februrary 24 Meeting, General Mills will be visiting IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
+Wednesday, Februrary 24 Meeting, General Mills visited IASG to give an overview of the company, as well as to talk about the infrastructure and security of the company.
 
-This week, we will NOT be meeting on Tuesday, BUT on Wednesday instead (I know, it's weird). This is because General Mills will be presenting.
+This week, we did NOT meet on Tuesday, BUT on Wednesday instead (I know, it's weird). This was because General Mills was presenting.
 
 
 Spring ISU Cyber Defense Competition (Saturday, March 26th)
