@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Tuesday, Februrary 29 Meeting - Scripting Web Attacks with the Python Requests Library"
+date:   2016-02-29 14:22:05
+categories: meetings
+excerpt: >
+  Tomorrow, we're back with another exciting presentation. Matt Brown will be giving a talk on scripting web attacks.
+---
+Scripting Web Attacks with the Python Requests Library
+-------------------
+Tomorrow, we're back with another exciting presentation. Matt Brown will be giving a talk on scripting web attacks.
+He will be discussing how to prototype web attacks using nothing but a web browser and scripting these attacking using Python. He will offer everyone a chance during the presentation and later at beginner's night to try scripting these attacks against his demos and against OWASP's Mutillidae.
+
+Following the presentation, there will be a Beginner's night on the presentation material, where you will have the opportunity to try these things out. This will begin around 6-6:15 in Coover 1012.
+
+
+CDC Kick-Off Meeting - Spring ISU Cyber Defense Competition (Saturday, March 26th)
+-------------------
+For those interested in competing in the spring ISU Cyber Defense Competition, ISEAGE staff is holding a Kick-Off meeting to introduce the scenario and help you find teams. This will be held immediately following the IASG meeting, and will be in Coover 2245 beginning around 6-6:15. If you are looking for team members or have questions, it would be a good idea to attend.
+You can sign-up for the CDC [here](signup.iseage.org).
+
+The competition will take place all day Saturday, March 26th in the Coover TLA (1313).
+
+CDCs are a fun way to learn more about cybersecurity. If you are new to the CDC or are looking for more information, visit cdc.iseage.org or email cdc_support@iastate.edu.
+
+
+Hope to see you at 5:15 in Coover 2245!
