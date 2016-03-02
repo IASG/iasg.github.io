@@ -6,7 +6,8 @@ categories: jobs
 excerpt: >
    The State of Iowa – Information Security Office has the following opening: Administrative Intern - Information Security Analyst
 ---
-##The State of Iowa – Information Security Office has the following opening.##
+The State of Iowa – Information Security Office has the following opening.
+------
  
 
 **Job Title:**                      Administrative Intern - Information Security Analyst
