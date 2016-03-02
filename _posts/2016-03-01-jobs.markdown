@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Job Opening: Security Analyst Apprentice" 
+date:   2016-03-01 14:22:05 
+categories: jobs
+excerpt: >
+   Security Analyst Apprentice - Meredith Corporation, Des Moines, IA 
+---
+##Security Analyst Apprentice##
+##Meredith Corporation, Des Moines, IA##
+ 
+
+**Company:**                      Meredith Corporation is a vibrant company with a creative culture that favors an
+entrepreneurial style and rewards excellent achievement. The Company seeks employees 
+who embody and live values such as integrity, creativity, courage, initiative, energy, 
+teamwork and respect for others. 
+Meredith is the leading media and marketing company serving American women. Meredith’s 
+National Media Group reaches 100 million unduplicated women every month, including 60 
+percent of U.S. Millennial women, through well-known brands such as Better Homes and 
+Gardens, Allrecipes, Parents and SHAPE. Meredith’s Local Media Group includes 17 owned 
+or operated television stations—with seven in the nation’s Top 25 markets—reaching 11 
+percent of U.S. households. Meredith Xcelerated Marketing develops and delivers custom 
+content and customer relationship marketing programs for many of the world's top brands, 
+including Kraft, Lowe's and NBC Universal.
+
+
+**Department:**        IT Security
+
+
+
+
+**Job Summary:**               The Security Analyst Apprentice is a member of the Meredith Corporate IT Security team.
+The position assists with security operations, including security event monitoring;
+vulnerability scanning and analysis; penetration testing; threat detection and prevention; risk 
+assessment; compliance operations; other security practices; and special projects as 
+assigned.
+
+
+
+
+**Job Requirements:**                 The Information Security Analyst will identify\monitor information security threats and daily operations; participate in incident response\remediation; and promote risk management activities to protect the State of Iowa information technology assets. 
+
+
+
+
+**Education:**   Sophomore, junior or senior student working toward a Bachelor’s degree in Information Assurance/ Cybersecurity.
+
+
+
+  **Preferred knowledge, skills and abilities:**
+
+
+  *       Knowledge of IDS/IPS, anti-virus, web content filtering, vulnerability 
+          scanners and various other security solutions
+
+  *       Knowledge of various scripting and/or programming languages
+
+  *       Knowledge of various application development life cycle methodologies
+
+  *       Ability to identify security attack vectors, assess risk and provide mitigation recommendations
+
+  *       Knowledge of various technology platforms, including cloud services
+  
+  *       Understanding of web architecture concepts, internet technologies and trends
+  
+  *       Strong verbal and written communication skills in order to interact effectively 
+          at all levels of the organization
+  
+  *       Self-motivated and passionate about continuous improvement of security and operational practices
+  
+  *       Problem-solving skills
+  
+  *       Good decision-making skills
+  
+  
+**Contact:**  
+
+  Lauren Burt,
+
+
+  lauren.burt@meredith.com
+  
+  
+  515-284-3125
