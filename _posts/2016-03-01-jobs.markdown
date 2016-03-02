@@ -7,7 +7,7 @@ excerpt: >
    Security Analyst Apprentice - Meredith Corporation, Des Moines, IA 
 ---
 ##Security Analyst Apprentice##
-##Meredith Corporation, Des Moines, IA##
+###Meredith Corporation, Des Moines, IA###
  
 
 **Company:**                      Meredith Corporation is a vibrant company with a creative culture that favors an
