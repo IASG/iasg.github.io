@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Tuesday, March 08 Meeting -  Introduction to CTF Challenges"
+date:   2016-03-07 14:22:05
+categories: meetings
+excerpt: >
+  Tomorrow at IASG, we will present on and discuss an introduction to CTF (capture the flag) challenges.
+---
+Introduction to CTF Challenges
+-------------------
+Tomorrow at IASG, we will present on and discuss an introduction to CTF challenges. A few club members participated in the Boston Key Part CTF over the weekend and would like to talk about what it involves, as well as present some of the interesting solutions to the challenges. If you don't know what a CTF (capture the flag) is, it is a competition (often online and open to anybody) where you are faced with various crypto, pwn, reversing, web, and other types of hacking challenges. This will take place in Coover 2245 at 5:15, as usual.
+
+
+
+CDC - Spring ISU Cyber Defense Competition (Saturday, March 26th)
+-------------------
+For those participating in the Cyber Defense Competition, there is a CDC lab jam at 6:30 in Coover 1012 where you can come and ask questions, or find a team if you do not have one yet.
+You can sign-up for the CDC [here](signup.iseage.org).
+
+The competition will take place all day Saturday, March 26th in the Coover TLA (1313).
+CDCs are a fun way to learn more about cybersecurity. If you are new to the CDC or are looking for more information, visit cdc.iseage.org or email cdc_support@iastate.edu.
+
+Also, the ECpE department would like a picture of a CDC and would like to stage it tomorrow in the TLA. If you are interested in having your picture in the recruiting brochure, show up to the Coover TLA tomorrow at 12:15 PM with a laptop.
+
+
+
+If you are looking for a job, make sure to check out the jobs [section on our website](http://iasg.iac.iastate.edu/jobs.html).
+
+Hope to see you at 5:15 PM in Coover 2245!
+
