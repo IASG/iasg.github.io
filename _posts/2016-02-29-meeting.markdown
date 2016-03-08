@@ -4,14 +4,14 @@ title:  "Tuesday, Februrary 29 Meeting - Scripting Web Attacks with the Python R
 date:   2016-02-29 14:22:05
 categories: meetings
 excerpt: >
-  Tomorrow, we're back with another exciting presentation. Matt Brown will be giving a talk on scripting web attacks.
+  Yesterday, we were back with another exciting presentation. Matt Brown gave a talk on scripting web attacks.
 ---
 Scripting Web Attacks with the Python Requests Library
 -------------------
-Tomorrow, we're back with another exciting presentation. Matt Brown will be giving a talk on scripting web attacks.
-He will be discussing how to prototype web attacks using nothing but a web browser and scripting these attacking using Python. He will offer everyone a chance during the presentation and later at beginner's night to try scripting these attacks against his demos and against OWASP's Mutillidae.
+Yesterday, we were back with another exciting presentation. Matt Brown gave a talk on scripting web attacks.
+He discussed how to prototype web attacks using nothing but a web browser and scripting these attacking using Python. He offered everyone a chance during the presentation and later at beginner's night to try scripting these attacks against his demos and against OWASP's Mutillidae.
 
-Following the presentation, there will be a Beginner's night on the presentation material, where you will have the opportunity to try these things out. This will begin around 6-6:15 in Coover 1012.
+Following the presentation, there was a Beginner's night on the presentation material, where everyone had the opportunity to try these things out. This started around 6-6:15 in Coover 1012.
 
 
 CDC Kick-Off Meeting - Spring ISU Cyber Defense Competition (Saturday, March 26th)
