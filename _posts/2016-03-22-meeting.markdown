@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Tuesday, March 22 Meeting -  Introduction to Binary Exploitation"
+date:   2016-03-22 14:22:05
+categories: meetings
+excerpt: >
+  Today at the IASG meeting, Jake Drahos presented on the topic: an introduction to binary exploitation.
+---
+Introduction to Binary Exploitation
+-------------------
+The talk was an introductory-level overview of memory vulnerabilities and binary exploitation. It began with a simple buffer overflow and segfault, then he showed how stack-smashing attacks can lead to a full system compromise.
+
+
+
+CDC - Spring ISU Cyber Defense Competition (Saturday, March 26th)
+-------------------
+If you are not participating in this weekend's Cyber Defense Competition but would like to get involved, CDC staff is currently looking for Green Team volunteers. The Green Team helps out with testing the Blue Teams' systems and some of the scoring, and is a great way to get involved with the CDC. The signup link is [here](http://goo.gl/forms/ToBLXfWbIQ)
+
+
+
+If you are looking for a job, make sure to check out the jobs [section on our website](http://iasg.iac.iastate.edu/jobs.html).
+
+It was good to see you 5:15 PM in Coover 2245!
+
