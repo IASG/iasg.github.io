@@ -4,11 +4,11 @@ title:  "Tuesday, March 29 Meeting -  Information sent over wireless devices"
 date:   2016-03-29 14:22:05
 categories: meetings
 excerpt: >
-  Tonight's presentation was on what information your wireless devices are sending out over the air.
+  Tonight's presentation was on the information your wireless devices are sending out over the air.
 ---
 Information sent over wireless devices
 -------------------
-Tonight's presentation discussed what information your wireless devices are send out over the air. The presentation focused on how this data can be used for legitimate and nefarious purposes to track locations of users, and how this can be prevented. We discussed tools that can be used to collect this information and how it can be visualized.
+Tonight's presentation discussed the information your wireless devices are send out over the air. The presentation focused on how this data can be used for legitimate and nefarious purposes to track locations of users, and how this can be prevented. We discussed tools that can be used to collect this information and how it can be visualized.
 
 
 
