@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Tuesday, March 29 Meeting -  Smash the Stack"
+date:   2016-04-05 14:22:05
+categories: meetings
+excerpt: >
+  Today at IASG, we did a group activity centered around wargames. "Smash the stack"
+---
+Smash the Stack
+-------------------
+Today at IASG, we did a group activity centered around wargames. The activity was just for fun and learning, so no experience was required. All you need is an SSH client installed, and PuTTY if you are on Windows. It was in Coover 1012, since it is better for groups. We gathered at 5:15 and divided into groups. This was a good opportunity to learn and practice exploitations with others.
+
+If you are looking for a job, make sure to check out the jobs [section on our website](http://iasg.iac.iastate.edu/jobs.html).
+
