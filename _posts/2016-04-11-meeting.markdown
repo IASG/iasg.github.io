@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Tuesday, April 12 Meeting -  So you want to run an InfoSec program?"
+date:   2016-04-11 14:22:05
+categories: meetings
+excerpt: >
+  Tomorrow at IASG, we will have a guest speaker, Ben Blakely, the director of Information Security at Workiva.
+---
+So you want to run an InfoSec program
+-------------------
+Tomorrow at IASG, we will have a guest speaker, Ben Blakely, the director of Information Security at Workiva. Here's the presentation summary:
+
+"So you want to run an InfoSec program?"
+What it's like to run a security program in the real world - skills you need, things you may not expect, challenges you face, etc.
+
+The presentation will be at 5:15 in Coover 2245.
+
+
+Check out Summer Warsaw scholarship opportunities [here](www.sras.org/security).
+
+Finally, IASG cabinet elections are coming up next week. All positions are up for election, although the current cabinet members are planning on running for their positions again. Additionally, the social chair position is open. If you have an interest in running for any cabinet position, let the cabinet or myself know.
+
+
+
+
+If you are looking for a job, make sure to check out the jobs [section on our website](http://iasg.iac.iastate.edu/jobs.html).
+
+
