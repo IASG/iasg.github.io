@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Job Opening: Administrative Intern - Information Security Analyst"
+date:   2016-08-20 14:22:05
+categories: jobs
+excerpt: >
+   The State of Iowa – Information Security Office has the following opening: Administrative Intern - Information Security Analyst
+---
+The State of Iowa – Information Security Office has the following opening.
+------
+ 
+
+**Job Title:**                      Administrative Intern - Information Security Analyst
+
+
+**Position Number:**        17760BR
+
+
+**Salary Range:**               $15,080 - $42,681
+
+
+**Description:**                 The Information Security Analyst will identify\monitor information security threats and daily operations; participate in incident response\remediation; and promote risk management activities to protect the State of Iowa information technology assets.
+
+
+**Education\Experience Requirements:**   Key education\experience requirements include:
+
+  * Knowledge of information security principals.
+
+  * Working knowledge of network and web related protocols.
+
+  * Experience with log and packet analysis\tools.
+
+  * Experience with vulnerability assessment\scanning tools.
+
+  * Must be enrolled in an Information Assurance Program with a 2 or 4 year college.
+
+  * Two years’ experience and/or education in system, network, and application security.
+
+**Closing Date:**               August 28, 2016
+
+ 
+
+To see the full list of requirements and to apply please visit [this site](https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=25026&siteid=5018) and search for job opening **17760BR**.
