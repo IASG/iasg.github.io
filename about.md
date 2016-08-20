@@ -19,9 +19,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 5:15 PM each Tuesday
+**Time:** 5:15 PM every Tuesday
 
-**Location:** Coover 2245 for Spring 2016
+**Location:** Coover 2245 for Fall 2016
 
 
 Mailing List Information
