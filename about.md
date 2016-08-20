@@ -37,7 +37,7 @@ Slack Chatroom
 IASG uses a [Slack](https://iasg.slack.com) organization as a chatroom to hang out in
 between meetings. It's worth joining, since people will occasionally post cool
 tricks, news stories, and other infosec things in the channel. All you need to
-sign up at <https://iasg.slack.com> is
+sign up at <https://iasg.slack.com> with
 an @iastate.edu email address.
 
 Contact Information
