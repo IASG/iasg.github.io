@@ -21,7 +21,7 @@ Meeting Information
 
 **Time:** 5:15 PM every Tuesday
 
-**Location:** Coover 2245 for Fall 2016
+**Location:** Hoover 1213 for Fall 2016
 
 
 Mailing List Information
