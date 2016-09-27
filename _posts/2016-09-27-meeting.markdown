@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tuesday, September 27 Meeting -  Intro to Network Security"
+date:   2016-09-27 14:22:05
+categories: meetings
+excerpt: >
+  Today at IASG, there was a presentation on Network Security
+---
+Intro to Network Security
+-------------------
+Today at IASG, there was a presentation on Network Security. This presentation was over networking and the TCP/IP at a high level, and discussing the implications of security at each level. Networking is one of the foundational pillars of security, thus a general understanding of networking greatly helps with other security concepts.
+
+Following the meeting, we had a brief demonstration of using Wireshark, the network protocol analyzer. 
