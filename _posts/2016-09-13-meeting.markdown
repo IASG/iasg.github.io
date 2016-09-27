@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Tuesday, September 13 Meeting -  Welcome back meeting"
+date:   2016-09-13 14:22:05
+categories: meetings
+excerpt: >
+  The IASG (Information Assurance Student Group) is a recognized ISU student organization dedicated to educating students and the community about information security.
+---
+Welcome back!
+-------------------
+The IASG (Information Assurance Student Group) is a recognized ISU student organization dedicated to educating students and the community about information security. We hold weekly meetings which consist of presentations by the cabinet, members, companies, and others. The presentations cover a wide array of security topics including web application penetration testing, hacking embedded systems & IoT devices, security tools, malware, radios, and anything else. No experience, relevant major, or formal membership is required; an interest in security is all you need!
+
+At the meeting, we had an introduction to what the club is, as well as some fun security demos to show off. It was structured a little bit differently than our normal meetings. Here's what we'll have today:
+- Cross-site-request-forgery (CSRF) demo
+- Censys.io/Shodan
+- SQL Injection
+- WiFi hacking
+
+Following this meeting, members had a chance to try out some of the things that were demonstrated. 
+
+New this year is access to ISELab in Coover hall (a security testbed lab). We don't have many details on this yet, but we will keep you updated as we make more progress.
+
+The website is updated regularly throughout the year with meeting information and job opportunities that we receive. Also, you can contact iasg-cabinet@iastate.edu with any suggestions or questions regarding the club. 
