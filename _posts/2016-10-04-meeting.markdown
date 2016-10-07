@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tuesday, October 4 Meeting -  Web Security"
+date:   2016-10-04 14:22:05
+categories: meetings
+excerpt: >
+  We had a presentation on a start-to-finish assessment of a website to find vulnerabilities.
+---
+Web Security
+-------------------
+We had a presentation on a start-to-finish assessment of a website to find vulnerabilities. One part was discussing and showing how you can evaluate source code and do simple recon to find said source code. The next part was discussing how to evaluate a web application that takes input to find potential vulnerabilities it could be subject to and exploit them.
+
+Following the meeting, we had the first Beginner's Night of the semester! We went over the basics of using Linux, which is a key skill in the security field.
