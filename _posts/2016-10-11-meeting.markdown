@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Tuesday, October 11 Meeting -  Bug Bounty programs"
+date:   2016-10-11 14:22:05
+categories: meetings
+excerpt: >
+  Jeff Neel gave a talk on Bug Bounty programs
+---
+Bug Bounty programs
+-------------------
+We elected a new secreatry at the start of the meeting
+
+Jeff Neel gave a talk on Bug Bounty programs, including what they are and how to get started. Many security researches work independently and make money off of these programs. We learned how to get paid for finding bugs in applications for real world companies. It covered some basic ideas of how to (legally) assess a company and find bugs for profit. 
+
+After the presentation, we tried out some bug bounties as a group.
