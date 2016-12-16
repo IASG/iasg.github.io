@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Secretary’s Honors Program Cyber Student Volunteer Initiative"
+date:   2016-12-16 12:22:05
+categories: jobs
+excerpt: >
+   Department of Homeland Security Now Accepting Applications for the Secretary’s Honors Program Cyber Student Volunteer Initiative 
+---
+------
+Secretary’s Honors Program Cyber Student Volunteer Initiative
+------
+The U.S. Department of Homeland Security (DHS) is pleased to announce the launch of the 2017 Secretary’s Honors Program Cyber Student Volunteer Initiative for current undergraduate and graduate college students. This program is a part of the Department’s efforts to build a cybersecurity talent pipeline by working with secondary, post-secondary institutions and other key partners in academia and the private sector. Through the Secretary’s Honors Program Cyber Student Volunteer Initiative, students are able to learn about the DHS cybersecurity mission by completing hands-on cybersecurity work and building technical experience in key areas such as digital forensics, network diagnostics and incident response.
+ 
+In the 2017 Secretary’s Honors Program Cyber Student Volunteer Initiative cycle, more than 50 student assignments are available at over 40 local DHS field offices across the country. Participating DHS Components include Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), National Protection and Programs Directorate (NPPD), Management Directorate/Office of the Chief Information Officer (OCIO), Office of Intelligence and Analysis (I&A), Office of Policy/Cyber, Infrastructure and Resilience Policy, Transportation Security Administration (TSA), and United States Coast Guard (USCG).
+
+ 
+
+The Secretary’s Honors Program Cyber Student Volunteer Initiative application period is open from **December 14, 2016** to **January 20, 2017** through [USAJOBS](https://www.usajobs.gov/GetJob/ViewDetails/459594600/).
+ 
+We would greatly appreciate it if you would encourage your students to apply. For more information, please email <CMSI@hq.dhs.gov>.
