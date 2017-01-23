@@ -1,0 +1,23 @@
+---
+layout: default
+title: Puzzler Archive
+puzzlers:
+  - file: test.txt
+    date: 2017-01-23
+  - file: test2.txt
+    date: 2017-01-24
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for puzzler in page.puzzlers %}
+    <li>
+      <a href="{{ puzzler.file }}">{{ puzzler.date }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
