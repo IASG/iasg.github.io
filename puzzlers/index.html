@@ -4,12 +4,20 @@ title: Puzzler Archive
 puzzlers:
   - file: puzzle1.png
     date: 2017-01-24
+    category: File format abuse
+    difficulty: 8
   - file: littledeath.pdf
     date: 2017-01-31
+    category: File format abuse
+    difficulty: 2
   - file: nomoon.png
     date: 2017-02-07
+    category: File format abuse
+    difficulty: 3
   - file: flag.tar.flac
     date: 2017-02-14
+    category: File format abuse
+    difficulty: 3
 ---
 
 <div class="home">
@@ -19,10 +27,12 @@ puzzlers:
   Flag data is lower-case letters separated by underscores.
   </p>
 
+  Date, category, and difficulty (relative to others in category, out of 10).
   <ul>
     {% for puzzler in page.puzzlers %}
     <li>
-      <a href="{{ puzzler.file }}">{{ puzzler.date }}</a>
+    <a href="{{ puzzler.file }}">{{ puzzler.date }}</a> {{ puzzler.category }}
+        ({{ puzzler.difficulty }})
     </li>
     {% endfor %}
   </ul>
