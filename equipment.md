@@ -2,6 +2,7 @@
 layout: page
 title: Equipment Policy
 permalink: /equipment/
+include-in-navbar: yes
 ---
 ## Purpose
 

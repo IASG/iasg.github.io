@@ -2,6 +2,7 @@
 layout: page
 title: Equipment List
 permalink: /equipment_list/
+include-in-navbar: yes
 ---
 
 ## WiFi Alfa

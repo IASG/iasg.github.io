@@ -2,6 +2,7 @@
 layout: page
 title: About IASG
 permalink: /about/
+include-in-navbar: yes
 ---
 The Information Assurance Student Group (IASG)
 at Iowa State University holds weekly meetings on information
