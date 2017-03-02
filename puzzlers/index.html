@@ -22,8 +22,10 @@ puzzlers:
     date: 2017-02-21
     category: Crypto
     difficulty: Easy
+    spoilers: yes
+    tarball: yes
   - file: puzzler6.tar.gz
-    date: 2017-02-21
+    date: 2017-02-28
     category: Crypto
     difficulty: Medium Hard
 ---
@@ -31,7 +33,7 @@ puzzlers:
 <div class="home">
 
   <h1 class="page-heading">Puzzler Archive</h1>
-  <p>The flag for each puzzler is in the format <b>iasg{flag_data_here}</b>.
+  <p>The flag for each puzzler is in the format <tt>iasg{flag_data_here}</tt>.
   <br/>
   Flag data is lower-case letters separated by underscores.
   </p>
@@ -43,6 +45,16 @@ puzzlers:
     <li>
     <a href="{{ puzzler.file }}">{{ puzzler.date }}</a> {{ puzzler.category }}
         ({{ puzzler.difficulty }})
+        {% if puzzler.spoilers %}
+        <span style="font-weight: bold;">SPOILERS:</span>
+        <a href="{{ puzzler.date | prepend: 'solutions/' | append: '.html'}}">
+            Writeup</a> | 
+            {% if puzzler.tarball %}
+            <a target="_blank"
+                href="{{ puzzler.date | prepend: 'solutions/' | append: '.tar.gz'}}">
+                Supporting Files</a>
+            {% endif %}
+        {% endif %}
     </li>
     {% endfor %}
   </ul>
