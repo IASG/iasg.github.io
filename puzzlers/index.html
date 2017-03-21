@@ -28,6 +28,7 @@ puzzlers:
   - file: puzzler6.tar.gz
     date: 2017-02-28
     category: Crypto
+    spoilers: yes
     difficulty: Medium Hard
   - file: puzzler7
     date: 2017-03-21
@@ -53,9 +54,9 @@ puzzlers:
         {% if puzzler.spoilers %}
         <span style="font-weight: bold;">SPOILERS:</span>
         <a href="{{ puzzler.date | prepend: 'solutions/' | append: '.html'}}">
-            Writeup</a> | 
+            Writeup</a> 
             {% if puzzler.tarball %}
-            <a target="_blank"
+             | <a target="_blank"
                 href="{{ puzzler.date | prepend: 'solutions/' | append: '.tar.gz'}}">
                 Supporting Files</a>
             {% endif %}
