@@ -53,11 +53,11 @@ puzzlers:
         ({{ puzzler.difficulty }})
         {% if puzzler.spoilers %}
         <span style="font-weight: bold;">SPOILERS:</span>
-        <a href="{{ puzzler.date | prepend: 'solutions/' | append: '.html'}}">
+        <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
             Writeup</a> 
             {% if puzzler.tarball %}
              | <a target="_blank"
-                href="{{ puzzler.date | prepend: 'solutions/' | append: '.tar.gz'}}">
+                href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
                 Supporting Files</a>
             {% endif %}
         {% endif %}
