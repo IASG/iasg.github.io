@@ -7,9 +7,11 @@ description: > # this means to ignore newlines until "baseurl:"
     information security and holds weekly meetings for students interested in the
     infosec field.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://iasg-host.iseage.org" # the base hostname & protocol for your site
+url: "http://iasg.iac.iseage.org" # the base hostname & protocol for your site
 twitter_username: 
-github_username:
+github_username: IASG
+facebook_page: infasgroup
+youtube_channel: UC-rLOtGfHGx9N1mlNNEwJNQ
 
 # Build settings
 markdown: kramdown

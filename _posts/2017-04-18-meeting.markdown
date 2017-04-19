@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Tuesday, April 18 Meeting - Cabinet Elections and Hacker Jeopardy"
+date:   2017-04-18 18:09:05
+categories: meetings
+excerpt: >
+  Final meeting of the spring 2017 semester.
+---
+Cabinet Elections
+-------------------
+At today's meeting, the new cabinet was elected! For details on the current members in office, see the [ISU Stuorg database](https://www.stuorg.iastate.edu/site/iasg).
+
+Hacker Jeopardy Lite
+--------------------
+IASG members used their hacking knowledge and buzzer-pressing skills to participate in another game of Hacker Jeopardy! Here's the source for the app that was developed
+and used just for this: [GitHub](https://github.com/mgerst/pyquiz)
+
+End of Semester
+---------------
+This summer, if you're looking to learn more about information security, here are some resources:
+- [Past IASG Presentation Slides](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing)
+- [IASG YouTube Channel](https://www.youtube.com/channel/UC-rLOtGfHGx9N1mlNNEwJNQ)
+- [Upcoming CTF Competitions](https://ctftime.org/event/oldlist/upcoming)
+- Wargames/etc.
+  - [Smash the Stack](http://smashthestack.org/)
+  - [Hack this Site!](https://www.hackthissite.org/)
+  - [Over the Wire](http://overthewire.org/wargames/)
+  - [VulnHub](https://www.vulnhub.com/)
+
+Hope to see you all at IASG in the fall! We'll be hanging out on [Slack](https://iasg.slack.com) if you'd like to join in!
