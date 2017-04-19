@@ -15,7 +15,7 @@ of 3 small wireless routers and 3 Raspberry Pi 3s acting as wireless clients, as
 an additional Pi to act as the "ISP". The project is a small scale model of a city street
 that may have various wireless networks in play.
 
-(insert image here)
+![Sheep City 1.0]({{ site.url }}/assets/sheep_city.jpg)
 
 Each wireless network is different. The first network requires no authentication and does not
 use encryption. This network is useful for experimenting with passive wireless sniffing in monitor
