@@ -22,7 +22,7 @@ Meeting Information
 
 **Time:** 5:15 PM every Tuesday
 
-**Location:** Hoover 1312 for Spring 2017
+**Location:** TBA for Fall 2017
 
 
 Mailing List Information
@@ -38,9 +38,9 @@ The slides to the previous meetings can be found [here](https://drive.google.com
 Slack Chatroom
 --------------
 
-IASG uses a [Slack](https://iasg.slack.com) organization as a chatroom to hang out in
-between meetings. It's worth joining, since people will occasionally post cool
-tricks, news stories, and other infosec things in the channel. All you need to
+IASG uses a [Slack](https://iasg.slack.com) chatroom to hang out and share information
+between meetings. It's worth joining, since members will post cool
+tricks, news stories, and other infosec things in the channel. All you need to do is
 sign up at <https://iasg.slack.com> with
 an @iastate.edu email address.
 

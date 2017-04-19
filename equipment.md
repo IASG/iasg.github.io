@@ -112,7 +112,7 @@ This exception does NOT apply to:
 yet still available on the market. (Illegal Chinese transceivers are not
 permitted for IASG presentations).
 - Part 15 devices for which the manufacturer recommends professional
-installation, such as backhaul WiFi equipment.
+installation, such as back-haul WiFi equipment.
 
 2. The antennas may be modified or replaced, provided no transmit functionality
 is used with the modified antennas.
