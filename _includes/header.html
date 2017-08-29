@@ -1,5 +1,5 @@
         {% for page in site.pages %}
           {% if page.include-in-navbar %}
-          <a class="btn" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a class="btn" href="{{ page.url | prepend: site.baseurl }}" style="margin-bottom:10px;">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
