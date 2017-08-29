@@ -4,10 +4,11 @@ title: About IASG
 permalink: /about/
 include-in-navbar: yes
 ---
-The Information Assurance Student Group (IASG)
-at Iowa State University holds weekly meetings on information
-security topics. These meetings consist of convention-style
-presentations about various infosec-related topics including
+The Information Assurance Student Group (IASG), a part of the
+Information Assurance Center at Iowa State University,
+holds weekly meetings on information
+security topics. These meetings consist of conference-style
+presentations about various InfoSec-related topics including
 hacking, exploits, recent vulnerabilities in the news,
 webapp vulnerabilities, and general hacker subjects such as 
 radio, operating systems, and networking.
