@@ -7,7 +7,7 @@ include-in-navbar: yes
 
 ## Wireless Adapter
 2.4GHz all-mode (including monitor mode) USB wireless adapters, available in TP-Link and Alfa models. Very useful for WiFi
-sniffing and injecting activities.
+sniffing and injection activities.
 
 ## HackRF One
 VHF/UHF Rx/Tx software defined radio. Subject to transmitter restrictions.

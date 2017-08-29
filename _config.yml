@@ -2,10 +2,9 @@
 title: Information Assurance Student Group  
 email: iasg-cabinet@iastate.edu
 description: > # this means to ignore newlines until "baseurl:"
-    The Information Assurance Student Group (IASG), part of the Information
-    Assurance Center at Iowa State is dedicated to
+    The Information Assurance Student Group (IASG) at Iowa State University is dedicated to
     information security and holds weekly meetings for students interested in the
-    infosec field.
+    InfoSec field.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://iasg.iac.iastate.edu" # the base hostname & protocol for your site
 twitter_username: 
