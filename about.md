@@ -23,7 +23,7 @@ Meeting Information
 
 **Time:** 5:15 PM every Tuesday
 
-**Location:** TBA for Fall 2017
+**Location:** Coover 2245 for Fall 2017
 
 
 Mailing List Information
