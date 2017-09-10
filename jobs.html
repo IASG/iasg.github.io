@@ -10,9 +10,9 @@ include-in-navbar: yes
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% assign currYear = page.date | date: "%Y"}	
+    {% assign currYear = page.date | date: "%Y" %}	
     {% for post in site.posts %}
-      {% assign postYear = post.date | date: "%Y"}
+      {% assign postYear = post.date | date: "%Y" %}
       {% if post.categories contains 'jobs' and postYear == currYear %}
          <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
