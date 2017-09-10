@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Boeing On-Campus Interviews"
-date:   2016-05-25 14:22:05
+date:   2017-09-09 10:06:05
 categories: jobs
 excerpt: >
    Boeing will be on campus from Sept. 18-20 conducting interviews
