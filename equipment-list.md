@@ -10,7 +10,7 @@ include-in-navbar: yes
 ![Alfa adapter]({{ site.url }}/assets/rentals/alfawifi_rental.JPG)
 ![Alfa panel]({{ site.url }}/assets/rentals/alfapanel_rental.JPG)
 
-2.4GHz all-mode (including monitor mode) USB wireless adapters, available in TP-Link and Alfa models. Very useful for WiFi
+2.4GHz all-mode (including monitor mode) USB wireless adapters, available in TP-Link and Alfa models. Useful for WiFi
 sniffing and injection activities.
 
 ## HackRF One
@@ -27,4 +27,4 @@ Useful for receiving radio transmissions.
 
 ## Camera Tripod
 ![Camera Tripod]({{ site.url }}/assets/rentals/cameratripod_rental.JPG)
-Used to record IASG meetings.
+Can be rented to film demos or other club-related videos.
