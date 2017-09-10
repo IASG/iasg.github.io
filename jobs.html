@@ -24,6 +24,10 @@ include-in-navbar: yes
 	       {{ post.excerpt }}
 
         </li>
+        <li>
+          {{ site.time | date: "%Y" }}
+          {{ post.date | date: "%Y" }}
+        </li>
       {% endif %}
     {% endfor %}
   </ul>
