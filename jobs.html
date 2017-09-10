@@ -26,6 +26,10 @@ include-in-navbar: yes
 	       {{ page.date }}
 
         </li>
+	<li>
+		{{ currYear }}
+		{{ page.date | date: "%Y" }}
+	</li> 
       {% endif %}
     {% endfor %}
   </ul>
