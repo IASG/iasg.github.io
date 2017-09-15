@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Union Pacific Looking for IASG Members"
+date:   2017-09-15 10:00:00
+categories: jobs
+excerpt: >
+   Union Pacific (UP) will be at the ISU Career Fair next week...
+---
+**From Andrew Mungons on the UP Corporate Audit Team:**
+
+"Let the group know that I will be at the career fair, and anyone interested in computer security jobs are welcome to stop by and chat. As an ISU alum and a former member of IASG, I know firsthand that it can be hard to find companies that are actually looking for hackers, and even harder to avoid jobs where you have "cyber" in your title but you don't actually do anything technical. So let me reassure you: the IS Audit team at Union Pacific is different. We are pentesters and security experts who perform real, in-depth technical reviews to help UP identify security risks in their systems. And we want you. So be sure to stop by and learn about our full-time and intern opportunities. Representatives from several departments at Union Pacific will be at the career fair, so make sure you ask to speak to Andy Mungons. We will also be coming to the first CDC in October, so if you can't make it to the career fair, be sure to catch us then."
+
+**What to look for in cyhire:**
+
+Summer Internship: Data Security and Analyst Intern (job ID: 113051)
+
+Full time: Data Security Analyst (job ID: 113053)
