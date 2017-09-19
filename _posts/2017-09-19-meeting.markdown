@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "September 19 Meeting - Dave Nelson, CEO, Integrity"
-date:   2017-09-18  21:26:00
+date:   2017-09-19  09:57:00
 categories: meetings
 excerpt: >
   Guest speaker at 09/19/17 IASG meeting
