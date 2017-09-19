@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "September 19 Meeting - Dave Nelson, CEO, Integrity"
+date:   2017-09-18  21:26:00
+categories: meetings
+excerpt: >
+  Guest speaker at 09/19/17 IASG meeting
+---
+Guest Speaker
+-------------------
+Tomorrow is the second meeting of the semester, and we're inviting a guest speaker - Dave Nelson, CEO of Integrity - to speak. Here's a description of Dave and his talk:
+
+"Dave Nelson is a cybersecurity entrepreneur whose company, Integrity, is the leading pure-play information security firm in Iowa.  
+Their consulting and managed services divisions serve clients across the US. Dave will be discussing the vast career field opportunities in Iowa ranging from 
+technical roles such as penetration testing, secure coding, and digital forensics to more business focused roles such at IT risk management, security control design, and 
+testing or security research. Dave is a Fellow with the Information Systems Security Association and founded the Iowa ISSA chapter along with the widely popular Secure
+Iowa Conference held in Ankeny every October. As a well-known expert in the field, Dave has his pulse on current and future career opportunities and will answer questions 
+about what to expect in the cybersecurity career field."
+
+Beginner's Night
+--
+After our guest speaker, Keane O'Kelley will be hosting the first beginner's night of the semester: "Hacking 101: Introduction to the Linux Operating System". If you're new to Linux, 
+or are competing in the CDC, you'll want to stick around for it!
