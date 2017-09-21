@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
         {% seo %}
         <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.ico" | prepend: site.baseurl  }}" >
@@ -14,7 +15,7 @@
 
         <header>
             <div class="container" style="text-align:center;">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <a style="text-decoration:none" href="/{{ site.baseurl }}"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
                 <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
                 <section id="downloads" style="text-align:center;">
@@ -39,5 +40,6 @@ ga('create', '{{ site.google_analytics }}', 'auto');
 ga('send', 'pageview');
         </script>
         {% endif %}
+        {% include footer.html %}
     </body>
 </html>
