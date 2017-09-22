@@ -307,8 +307,6 @@ $on-laptop:        800px;
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
-	max-width: $spacing-unit * 12;
-	padding-left: $spacing-unit * 3 / 2;
 }
 
 @include media-query($on-laptop) {
