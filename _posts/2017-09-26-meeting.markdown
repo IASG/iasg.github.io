@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "September 26 Meeting - Wireshark"
+date:   2017-09-25  13:12:00
+categories: meetings
+excerpt: >
+  Presentation on packet sniffing with Wireshark
+---
+Wireshark
+-------------------
+This Tuesday is our third meeting of the semester, and we'll have Cabinet Secretary Megan Miller presenting on Wireshark, a popular network sniffer and packet analyzer. Wireshark is 
+useful for learning about how networks and protocols operate, and can also be used for advanced tasks such as malware analysis, protocol development/debugging, and reverse engineering.
+
+Beginner's Night
+--
+After the main presentation, Cabinet Equipment Chair Kole Swesey will be hosting the next installment in our Beginner's Night series: "Introduction to Networking". This talk will
+highlight the different layers of modern networks and how networks can be configured. Part of the talk will cover Linux Networking, as a continuation from (last week's Beginner's Night)[https://www.youtube.com/watch?v=YSkU6wvXhKQ].
+A lot of this information will be helpful in understanding how to better utilize Wireshark.

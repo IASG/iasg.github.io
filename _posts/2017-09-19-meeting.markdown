@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "September 19 Meeting - Dave Nelson, CEO, Integrity"
-date:   2017-09-19  09:57:00
+date:   2017-09-18  09:57:00
 categories: meetings
 excerpt: >
   Guest speaker at 09/19/17 IASG meeting
 ---
 Guest Speaker
 -------------------
-Tomorrow is the second meeting of the semester, and we're inviting a guest speaker - Dave Nelson, CEO of Integrity - to speak. Here's a description of Dave and his talk:
+This Tuesday is the second meeting of the semester, and we're inviting a guest speaker - Dave Nelson, CEO of Integrity - to speak. Here's a description of Dave and his talk:
 
 "Dave Nelson is a cybersecurity entrepreneur whose company, Integrity, is the leading pure-play information security firm in Iowa.  
 Their consulting and managed services divisions serve clients across the US. Dave will be discussing the vast career field opportunities in Iowa ranging from 
