@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IASG SWAG"
-date:   2017-09-25  12:30:00
+date:   2017-09-25  22:41:00
 categories: announcements
 excerpt: >
   Help us choose what SWAG IASG should get
