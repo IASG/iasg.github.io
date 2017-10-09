@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "October 10 Meeting - How to Secure a Vulnerable CDC Box"
+date:   2017-10-09  11:01:00
+categories: meetings
+excerpt: >
+  The director of the Fall 2017 ISUCDC is giving a talk on securing a CDC box.
+---
+How to Secure a Vulnerable CDC Box
+-------------------
+Tomorrow we have a special meeting related to last week's Cyber Defense Competition (CDC). Matthew Burket, director of the Fall 2017 ISUCDC,
+will be giving an insider's look at how to secure the boxes from the CDC scenario. He'll discuss specifically planted holes/programming mistakes/vulnerabilities
+left on the boxes and show you how you could have patched them. Even if you did not compete in the CDC, this will be beneficial in showing you where to look and how to secure
+systems. Matthew will also be able to answer any questions you may have regarding the scenario or competition.
+
+Beginner's Night
+--
+After the presentation, Daniel Limanowski will be hosting a beginner's night on Python Scripting and what it can do for you (and security-related things).
