@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "IASG ISELab"
+date:   2017-10-03 13:51:00
+categories: projects
+excerpt: >
+    IASG's isolated testbed environment for practicing attacks and defenses.
+---
+IASG ISELab
+--
+Similar to the Information Assurance classes, IASG has been provided with access to a virtualized environment for club members to play around in. Attacks can be conducted
+within this environment without worrying about affecting the real world.
+
+You can access the environment through our VPN, SSH hop, or web shell and web browser.
+
+To get started, visit [https://iasg.iac.iastate.edu/iselab](https://iasg.iac.iastate.edu/iselab) and register for an account.
+
+For any issues, reach us in the #iselab channel on [Slack](https://iasg.slack.com) or email us at [iasg-cabinet@iastate.edu](mailto:iasg-cabinet@iastate.edu).

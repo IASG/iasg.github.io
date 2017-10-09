@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "October 3 Meeting - SQL Injection"
+date:   2017-10-03  13:09:00
+categories: meetings
+excerpt: >
+  Interactive presentation on SQL Injection
+---
+SQL Injection & ISELab
+-------------------
+This Tuesday we'll have Daniel Limanowski (president) presenting on SQL injection, which is a type of web application injection vulnerabilities. Injection is one of the
+(OWASP Top 10 Vulnerabilties)[https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project#OWASP_Top_10_for_2013].
+
+IASG's new virtual environment IASG ISELab will be introduced at this meeting. Once everyone is ready to use it, we will walk through using SQL injection to attack a vulnerable
+website in the ISELab environment!
