@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "October 17 Meeting - Metasploit"
+date:   2017-10-17  17:14:00
+categories: meetings
+excerpt: >
+  Presentation on the Metasploit framework
+Metasploit
+---
+Logan W will be giving a presentation on Metasploit: 
+"Metasploit is one of the most powerful and versatile tools available to penetration testers both novice and professional. 
+There will be opportunity to practice all of the methods in the talk using the ISELab environment."
+
+Beginner's Night
+--
+Logan K will give a beginner's night on Nmap, one of the most common network scanners, used to discover hosts, services, and vulnerabilities.
