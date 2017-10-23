@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "October 24 Meeting - ISU Police"
+date:   2017-10-23  13:46:00
+categories: meetings
+excerpt: >
+    Lt. Josh Hale from ISUPD will be giving a presentation: "Physical Security in a Digital World"
+---
+ISUPD
+--
+Lt. Josh Hale from ISUPD will be giving a presentation: "Josh Hale is a
+lieutenant with ISU Police having 14 years of law enforcement experience. He
+holds two degrees from ISU; a bachelor's degree in computer engineering and a
+master’s degree in information assurance. Josh is an Offensive Security
+Certified Professional. Next week he will be starting in a new joint position
+working with ISU IT Security and ISU Police. 
+
+"Physical Security in a Digital World" is a presentation that shows how an
+attacker can use physical devices such as Raspberry Pis and weaponized USB
+devices to gain access to a target network, including demonstrations on some of the
+things an attacker might be able to do once inside the network."
+
+Beginner's Night
+--
+Logan W will be hosting a beginner's night on Cyber Self Defense.
+
+Halloween CTF
+--
+IASG will be hosting a Halloween-themed CTF for IASG members during the meeting
+on Tuesday, October 31st at 5:15pm in Coover 3043. More details to come. Food
+and prizes will be there. Bring your friends!

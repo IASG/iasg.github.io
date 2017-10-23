@@ -4,7 +4,7 @@ title:  "October 17 Meeting - Metasploit"
 date:   2017-10-17  17:14:00
 categories: meetings
 excerpt: >
-  Presentation on the Metasploit framework
+  Presentation on the Metasploit framework.
 ---
 Metasploit
 --
