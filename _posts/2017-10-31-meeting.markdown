@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "October 31 Meeting - Halloween CTF"
+date:   2017-10-31  00:00:00
+categories: meetings
+excerpt: >
+    The IASG Cabinet hosts a Halloween-themed CTF!
+---
+Halloween CTF
+-------------
+Since it is Halloween, the cabinet is putting on a Halloween-themed CTF event
+during the regular meeting time. The competition involves solving trivia
+questions, small challenges related to cybersecurity, and pentest-style hacking into
+a set of Halloween-themed virtual machines. Teams will consist of up to 5
+people (we can help you find a team if you come alone or want more people to
+work with!) and the top team will win a prize. There will be pizza and candy to
+fuel your efforts.
+
+WHAT: A Capture the Flag Competition, bring your laptop, it's free!
+WHERE: Coover 3043
+WHEN: Tuesday October 31st, 5:15PM (competition starts at 5:30PM sharp)
+
+RSVP required by 12:00PM on 10/30/2017, fill out this simple form to RSVP:
+https://goo.gl/forms/65g9Eu0aQMcqbnMv2
+
+There will be something for people of all knowledge levels to work on - from
+experienced hackers to people just getting into security - you don't want to
+miss this fun, competitive, and educational competition. 
+
+Hop on slack (iasg.slack.com) or email us at iasg-cabinet@iastate.edu if you
+have any questions.

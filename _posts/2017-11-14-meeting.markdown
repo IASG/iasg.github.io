@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "November 14 Meeting - Hacker Jeopardy Lite"
+date:   2017-11-12  22:37:00
+categories: meetings
+excerpt: >
+    We're back at it again with another round of Hacker Jeopardy Lite!
+---
+Hacker Jeopardy Lite
+--
+For our second-to-last meeting of the semester, we will have another game of
+Hacker Jeopardy Lite! "It's almost as fun as the real thing"™. Come out and
+have fun answering hacker-related questions!
+
+The game takes place at 5:15 in Coover 2245.

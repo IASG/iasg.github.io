@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "November 7 Meeting - Hardware Hacking"
+date:   2017-11-07  22:32:00
+categories: meetings
+excerpt: >
+    A security engineer from ProCircular gives a talk.
+---
+Hardware Hacking
+--
+We will have a security engineer from ProCircular (a cybersecurity startup)
+giving a talk: Bryan Prather-Huff is a Cybersecurity Engineer at ProCircular
+Inc of Coralville, Iowa. Initially from Texas, Bryan moved to Iowa at the age
+of 5 and began the journey to tech fluency via IRC rooms on Coldfront and the
+dark hellhole that is 4Chan’s /b/. Bryan worked for many years as a contract
+Sys Admin and A/V engineer before acquiring a BS in Computer Science at the
+University of Iowa. Now he spends his days trying to hack into companies around
+eastern Iowa and educating folks about the biggest threats in Cyber Security
+(hint, it’s always people).
+
+Bryan will be giving a short, introductory talk about hardware hacking,
+providing a brief glimpse at approaches, applications, and tools. He will also
+stick around to answer any questions you might have about working in Cyber
+Security and the many tools and tricks used in the industry.
+
+There will be no beginner's night following the meeting.
