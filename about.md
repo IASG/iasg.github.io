@@ -23,7 +23,7 @@ Meeting Information
 
 **Time:** 5:15 PM every Tuesday
 
-**Location:** Coover 2245 for Fall 2017
+**Location:** Coover 3043 for Fall 2018
 
 
 Mailing List Information
