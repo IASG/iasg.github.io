@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "January 23 Meeting - RSM"
+date:   2017-12-23  13:37:00
+categories: meetings
+excerpt: >
+    RSM, an audit and consulting company, will be coming in to discuss a career
+    in penetration testing.
+---
+
+RSM
+---
+This Tuesday, January 23rd at 5:15PM is our first meeting of the Spring 2018
+semester. The meeting will take place in 3043 Coover (third floor).
+
+RSM, an audit and consulting company, will be coming in to discuss a career in
+penetration testing. They will also be bringing free Jeff's Pizza! 
+
+From RSM:
+
+> We’ll be doing an overview of pentesting– focusing for the first 10 minutes
+or so on what the goals of it are, what the job is like in general, types of
+engagements, etc.  We will then shift focus into talking through our
+methodology.  This will be a technical talk that outlines a variety of methods
+that we use in each step to attain, maintain, and propagate our access (and
+include several demos/videos).  The following steps will be covered:
+* Footprinting and enumeration
+* Initial compromise
+* Lateral movement and persistence
+* Sensitive data access
+
+Please note the new meeting location!
