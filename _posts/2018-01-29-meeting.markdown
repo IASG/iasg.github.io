@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "January 30 Meeting - Cryptography"
+date:   2018-01-29  13:37:00
+categories: meetings
+excerpt: >
+    An interactive talk on cryptography.
+---
+
+Cryptography
+---
+At 5:15PM in Coover 3043 on Tuesday, Alex Scheel is coming in to talk about
+cryptography. He plans on making his session interactive and wants you all to
+ask as many questions as possible!
+
+> Solving systems of boolean equations is one of the NP-Complete problems in
+Computer Science. Traditionally thought intractable, the past 20 years of SAT
+solving competitions has resulted in the development of many fast solvers which
+have seen adoption by industry. Starting in the early 2000s, the field of
+logical cryptanalysis was developed by F. Massacci and detailed the application
+of SAT solvers to cryptanalysis. However, much of the early work until 2010
+used cryptography to generate benchmarks for SAT solvers instead of using them
+for cryptanalysis. In this talk, we present new techniques for
+horizontally-scalable logical cryptanalysis of hash functions. These techniques
+allows us to study the structure inherent to the function and easily probe them
+for weaknesses, giving implications for real-world applications.
+
+Beginner's Night
+---
+Following the crypto talk, we have the first Beginner's Night of the semester.
+The beginner's night will be presented by social chair Kevin Davis, and it will
+cover an introduction to networking. Networking is a core skill that is useful
+for any security professional or enthusiast, and we hope to help you get
+started learning.

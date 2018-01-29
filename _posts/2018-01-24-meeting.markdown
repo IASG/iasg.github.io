@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "January 23 Meeting - RSM"
-date:   2017-12-23  13:37:00
+date:   2018-01-23  13:37:00
 categories: meetings
 excerpt: >
     RSM, an audit and consulting company, will be coming in to discuss a career
