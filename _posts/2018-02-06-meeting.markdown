@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "February 6 Meeting - Reverse Engineering"
+date:   2018-02-06  15:16:00
+categories: meetings
+excerpt: >
+    ELF files, reverse engineering, and obfuscation.
+---
+
+Reverse Engineering
+---
+Logan Kinneer will give a talk on reverse engineering x86_64 executable files
+on Linux. We'll start with an overview of the ELF file structure, then move
+into how to read assembly code, and end by talking about a few obfuscation
+techniques and how they can be circumvented.
+
+"Hack the Box"
+---
+Following the talk we will be having a "Hack The Box" night where we will use
+ISELab to attack a [VulnHub](https://www.vulnhub.com) box together. Please
+bring your laptop if you would like to participate! People with all ranges of
+security knowledge (beginner to expert) will be able to join in on the fun.
