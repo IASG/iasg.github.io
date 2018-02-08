@@ -32,3 +32,9 @@ The beginner's night will be presented by social chair Kevin Davis, and it will
 cover an introduction to networking. Networking is a core skill that is useful
 for any security professional or enthusiast, and we hope to help you get
 started learning.
+
+T-Shirts Now Available!
+---
+Official IASG t-shirts may now be purchased for $20! Here's what they look like:
+
+![IASG T-Shirt]({{ "/assets/images/notYourFathersPen.PNG" | absolute_url }})
