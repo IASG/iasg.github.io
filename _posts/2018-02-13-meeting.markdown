@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "February 13 Meeting - Mobile Security"
+date:   2018-02-13 15:16:00
+categories: meetings
+excerpt: >
+    Hack-the-box solutions, mobile security presentation, and a Beginner's Night
+---
+
+There are three items planned:
+
+1) There will be a quick walkthrough/solution for last week's hack-the-box.
+
+2) Kevin Davis, social/media chair, will be giving a talk on mobile security.
+Here's a description of the talk:
+
+> This talk will provide an introduction to mobile security. We will talk
+about why security is different on mobile devices, what complications can
+arise on mobile devices, and some past vulnerabilities and issues that have
+been found/continue to be found. We will also discuss the future and what
+it may hold related to mobile device security as well as ways that people
+can stay safe on their mobile devices.
+
+3) Following Kevin's talk, we will have a Beginner's Night. The Beginner's
+Night will be presented by cabinet secretary Megan Miller and it will cover
+malware and antivirus.
