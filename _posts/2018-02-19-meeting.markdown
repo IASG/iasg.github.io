@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "February 13 Meeting - Mobile Security"
+date:   2018-02-19 17:47:00
+categories: meetings
+excerpt: >
+    Password cracking and COM S 309 Malware
+---
+
+Password Cracking
+---
+Kole Swesey will be giving a talk on password cracking:
+
+> This talk will provide an introduction to password cracking. It will go over
+different types of attacks, things that can be attacked, and getting around
+different countermeasures. Demo files will be provided for people that wish to
+follow along in a GNU/Linux environment.
+
+COM S 309 Malware Project
+---
+Adam Crosser, Paul Chihak, and Daniel Limanowski will be giving a presentation
+and demo on the malware they developed for COM S 309. They will talk about how
+they built rudimentary "spyware" from the ground up last semester.
