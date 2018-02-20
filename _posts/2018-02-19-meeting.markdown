@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "February 13 Meeting - Mobile Security"
+title:  "February 20 Meeting - Password Cracking"
 date:   2018-02-19 17:47:00
 categories: meetings
 excerpt: >
