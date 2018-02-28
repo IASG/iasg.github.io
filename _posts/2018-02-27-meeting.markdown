@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "February 27 Meeting - Anonymity"
+date:   2018-02-27 12:12:00
+categories: meetings
+excerpt: >
+    Another Hack-the-Box session, followed by a talk on anonymity.
+---
+
+Hack-the-Box
+---
+We'll be attacking the SickOS v1.2 Vulnhub VM (we did v1.0 last time) in
+groups. A solution to rooting the box will be provided at next week's meeting.
+
+Anonymity
+--
+Cabinet secretary Megan Miller will be giving a talk on anoymity:
+
+> I'm giving an introductory talk about internet anonymity, why it's important,
+and how to be anonymous on the web. I'll also be talking about tor and some
+other tools that can be used to remain anonymous.
