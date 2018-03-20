@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "March 20 Meeting - Active Directory"
+date:   2018-03-20 11:17:00
+categories: meetings
+excerpt: >
+    A talk on active directory systems.
+---
+
+Green Team Volunteers
+---------------------
+The ISEAGE Lab is looking for Green Team volunteers for the Iowa State Cyber Defense Competition (CDC) that will be held this weekend. Here is the message from the Green Team Lead:
+
+> Good evening. I am William Rickert, Green Team Lead for the upcoming CDC on
+  March 24th. If you are willing to assist us with Green Team
+  duties please arrive at 8am. As always there will be breakfast, lunch, and
+  t-shirts as well as our usual fun. Thank you and I look forward to seeing all
+  of you!
+
+For more information about the CDCs, visit [cdc.iseage.org](https://cdc.iseage.org).
+
+Active Directory Presentation
+-----------------------------
+Logan Woolery will be giving a presentation on Active Directory (AD), the directory
+management system used on Windows Server that can handle LDAP,
+Kerberos, and DNS for a domain. The talk will cover an overview of the system,
+what its uses are, and common configurations. It'll also go over how to set it
+up and some general best practices.
+
+While AD isn't the most exciting thing on its own, it is useful to learn how it
+operates. If you work as a penetration tester in the industry, it is more than
+likely that you will encounter many AD systems, and a basic understanding will
+be crucial in achieving domain takeover! AD is often useful or required in ISU
+CDCs, so it may be useful to learn.
+
+Beginner's Night
+----------------
+Kole Swesey will be hosting a Beginner's Night on Bash scripting. Bash is the
+shell that you will most commonly interact with in a Linux terminal, and it can
+be used to script just about anything.
+
+> Tired of repeating some action on your computer or server tens if not hundreds
+of times? Be sure to stick around to learn how you can quickly and easily
+automate most mundane tasks with the power of bash scripting.
