@@ -10,26 +10,26 @@ excerpt: >
 
 A few details about the position
 
-*    Duties include
-  *        Server administration
-  *        System administration
-  *        Development
-  *        Support for competitions
-  *        Scenario development
-*    Looking for 20 hours per week
-  *        Extreamly flexible hours
-*    This is a paid position
+* Duties include
+  * Server administration
+  * System administration
+  * Development
+  * Support for competitions
+  * Scenario development
+* Looking for 20 hours per week
+  * Extreamly flexible hours
+* This is a paid position
 
 The qualifications we are looking for are
 
-*    Must be an Iowa State student
-*    Should have an interest in cyber security
-*    Should have experience in at least one of
-  *        Cyber Security
-  *        Networking
-  *        Systems administration
-  *        Full stack development
-*    CDC Experience is preferred.
+* Must be an Iowa State student
+* Should have an interest in cyber security
+* Should have experience in at least one of
+  * Cyber Security
+  * Networking
+  * Systems administration
+  * Full stack development
+* CDC Experience is preferred.
 
 
 Send a copy of your resume to [iseage@iastate.edu](mailto:iseage@iastate.edu) if you are interested.
