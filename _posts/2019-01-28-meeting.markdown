@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "January 28th Meeting - Chris Bloomquist from ViriTechnology"
-date:   2018-01-28 11:17:00
+date:   2019-01-28 11:17:00
 categories: meetings
 excerpt: >
     A talk on careers in security.
