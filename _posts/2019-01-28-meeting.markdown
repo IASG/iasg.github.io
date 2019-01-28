@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "January 28th Meeting - Chris Bloomquist from ViriTechnology"
+date:   2018-01-28 11:17:00
+categories: meetings
+excerpt: >
+    A talk on careers in security.
+---
+
+
+
+Career Building from the eyes of a Recruiter
+-----------------------------
+For our first meeting of this semester, this Tuesday we will have a presentation by Chris Bloomquist of Viri technology:
+ 
+
+Chris has been in the technology field for over 15 years, holding roles as software engineer, lead tech recruiter and founding
+Partner of Viri Technology.  He started his software career in the embedded and client applications arenas, developing inventory
+tracking systems using RFID chips. In the years since, he has had the opportunity to successfully recruit and hire for companies
+like Expedia, Disney, ESPN, Holland America, Wizards of the Coast and a host of startups in the Puget Sound area. He is actively
+involved in the Seattle tech community, including volunteerism with Seattle Startup Week and YearUp and holds a BS in Computer
+Engineering from Iowa State University.
+
+ 
+
+
+As a 13 year veteran to the Tech Recruiting industry and Founding Partner of Viri Technology (pronounced “veer-ee”) Chris provides
+a detailed approach to entry level technology job seekers on how to drive a successful job search.  Topics we’ll cover:
+
+    Resume format
+    LinkedIn account
+    Identifying / applying for appropriate roles
+    Interview preparation
+    Offer Negotiation
+    Q&A
+
+
