@@ -13,7 +13,7 @@ Physical security
 -----------------------------
 Tomorrow we will have a presentation from Jack Potter on physical security:
 
-    The presentation is a rapid-fire overview of physical security concepts and tools, designed to give people a brief introduction
+   The presentation is a rapid-fire overview of physical security concepts and tools, designed to give people a brief introduction
     to some of the cool ideas in the field. From opening locks without keys to bypassing them entirely, copying physical keys and
     electronic key cards alike, mitigating physical security threats and more, the talk is one long sampler platter of awesome 
     physical security information.
