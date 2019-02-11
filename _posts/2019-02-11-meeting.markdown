@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "February 12th Meeting - Physical Security"
+date:   2019-02-11 11:17:00
+categories: meetings
+excerpt: >
+    Physical security concepts and tools.
+---
+
+
+
+Physical security
+-----------------------------
+Tomorrow we will have a presentation from Jack Potter on physical security:
+
+    The presentation is a rapid-fire overview of physical security concepts and tools, designed to give people a brief introduction
+    to some of the cool ideas in the field. From opening locks without keys to bypassing them entirely, copying physical keys and
+    electronic key cards alike, mitigating physical security threats and more, the talk is one long sampler platter of awesome 
+    physical security information.
+
+
+After the presentation, we will have a Beginners Night on Networking by Kevin Davis. He will be covering basic networking 
+protocols and concepts, as well as going over Linux commands related to configuring and testing networks.
+
+
