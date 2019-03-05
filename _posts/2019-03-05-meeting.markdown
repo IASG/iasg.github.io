@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "March 5th Meeting - Open Source Intelligence tools by IBM"
+date:   2019-03-05 11:17:00
+categories: meetings
+excerpt: >
+    Open Source Intelligence tools.
+---
+
+
+
+IBM
+-----------------------------
+This Tuesday we will have a presentation from employees at IBM on the use of open-source intelligence gathering:
+
+We're a team of pentesters who spent a week around Christmas performing open-source intelligence gathering targeting an
+executive in our company to see what information was available publicly. The goal was to apply threat modeling techniques to
+a person and highlight areas of concern. In our presentation we'll focus on the information sources available in the deep web
+beyond what a google search will show you, provide examples of the surprising types of information we were able to successfully
+acquire through these sources, and speak a bit to how our team organized itself. We'll also provide some key tips around online 
+safety and some limitations on just how secure and anonymous you actually are.
+
+ 
+
+After the presentation we will have a beginners night on Reverse Engineering by Nic Losby, covering some simple tools you can
+use to extract information from executable files.
+
+
