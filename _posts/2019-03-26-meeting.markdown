@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "March 26th Meeting - Embedded System security"
+date:   2019-03-26 11:17:00
+categories: meetings
+excerpt: >
+    Open Source Intelligence tools.
+---
+
+
+
+Embedded System Security
+-----------------------------
+This Tuesday we will have a presentation by William Rickert on embedded system security:
+
+    This presentation is an overview of attack surfaces for embedded devices. I will be covering Bluetooth low energy, uart/jtag,
+    and memory extraction. I will also be doing a short blurb about my plastic frog project.
+
+ 
+
+After the presentation, we will have a Beginners Night on Bug Bounties by Nic Losby, giving an introduction to Bug Bounty 
+programs and how to get started with them.
