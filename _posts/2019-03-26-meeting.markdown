@@ -12,7 +12,6 @@ excerpt: >
 Embedded System Security
 -----------------------------
 This Tuesday we will have a presentation by William Rickert on embedded system security:
-
     This presentation is an overview of attack surfaces for embedded devices. I will be covering Bluetooth low energy, uart/jtag,
     and memory extraction. I will also be doing a short blurb about my plastic frog project.
 
