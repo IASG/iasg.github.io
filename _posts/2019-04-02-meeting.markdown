@@ -14,6 +14,6 @@ In Depth Red Team Debrief
 This Tuesday, we will have an in-depth red team debrief from members of ISEAGE staff on 
 what steps blue teamers should've taken to secure their severs:
 
-         ISEAGE rambles in an exhausted state about things that may have transpired at or
+  ISEAGE rambles in an exhausted state about things that may have transpired at or
          around the CDC. Even if you did not compete in this CDC, much can be learned in terms of 
          identifying and fixing vulnerabilities.
