@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "April 2nd Meeting - In Depth Red Team Debrief"
+date:   2019-04-02 11:17:00
+categories: meetings
+excerpt: >
+   ISUCDC2 Red Team Debrief
+---
+
+
+
+In Depth Red Team Debrief
+-----------------------------
+This Tuesday, we will have an in-depth red team debrief from members of ISEAGE staff on 
+what steps blue teamers should've taken to secure their severs:
+
+         ISEAGE rambles in an exhausted state about things that may have transpired at or
+         around the CDC. Even if you did not compete in this CDC, much can be learned in terms of 
+         identifying and fixing vulnerabilities.
