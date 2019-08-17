@@ -21,9 +21,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 5:15 PM every Tuesday
+**Time:** 5:45 PM every Thursday
 
-**Location:** Bessey 210 for Fall 2018
+**Location:** Hoover 1312 for Fall 2019
 
 
 Mailing List Information
