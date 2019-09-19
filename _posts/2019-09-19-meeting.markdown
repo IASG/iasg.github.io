@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "September 19th Meeting - Burns & McDonnell"
+date:   2019-09-19 11:17:00
+categories: meetings
+excerpt: >
+   Burns and McDonnell
+---
+
+
+
+In Depth Red Team Debrief
+-----------------------------
+This Thursday, we will have a presentation from representatives of Burns &
+McDonnell, followed by a beginners night on Linux by Jack Potter.
