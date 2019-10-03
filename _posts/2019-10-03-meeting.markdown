@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "October 3rd Meeting - Physical Security"
+date:   2019-10-03 11:17:00
+categories: meetings
+excerpt: >
+   Physical Security
+---
+
+
+
+Physical Security
+-----------------------------
+This Thursday, we will have a presentation Jack Potter on Physical Security:
+      I'll be presenting some of my favorite physical security concepts and ideas, 
+      as well as some case studies from my own experience carrying out physical
+      penetration tests.
+
+
+Afterwards we will have a Beginners Night on Blue Teaming by Kevin Davis. Want to 
+participate in the Cyber Defense Competition but don't know where to start? Stick 
+around for this beginners night to get an idea of what you should be doing to 
+defend your network.
