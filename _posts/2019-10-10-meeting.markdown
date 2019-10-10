@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "October 10th Meeting - Workiva"
+date:   2019-10-10 11:17:00
+categories: meetings
+excerpt: >
+   Careers in Security
+---
+
+
+
+Workiva
+-----------------------------
+This Thursday we have a presentation from a representative of Workiva:
+          Ellen Hartstack is a Senior Security Operations Engineer who 
+          works at Workiva in Ames, IA. Come join her tonight to learn 
+          about her career path from her undergraduate & graduate school,
+          thru various internships, a position with the Department of Defense
+          and finally on to Workiva! You’ll also learn about upcoming full time
+          & internships available at Workiva as well
+
+
+Afterwards we will have a beginners night by Will Springer on Staying Informed in
+ Cyber Security, going over how to stay in the know in a constantly changing field.
