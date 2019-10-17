@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "October 17th Meeting - Red Team Debrief"
+date:   2019-10-17 11:17:00
+categories: meetings
+excerpt: >
+   In debth walkthrough of the last CDC
+---
+
+
+
+Red Team Debrief
+-----------------------------
+This Thursday we will have an in-depth red team debrief from members of ISEAGE:
+
+    We will be presenting an extended red team debrief for the Fall 2019 ISU CDC. 
+    This presentation will cover what holes the ISEAGE staff put into the scenario
+    and explain how you might fix them. Even if you did not compete in this CDC, 
+    much can be learned in terms of identifying and fixing vulnerabilities
+
+
+Afterwards I will be giving a beginners night on Nmap, a powerful network scanner that
+is almost always used in the early stages of a penetration test.
+
