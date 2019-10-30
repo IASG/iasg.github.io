@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October 31th Meeting - Halloween CTF"
-date:   2019-10-31 11:17:00
+date:   2019-10-29 11:17:00
 categories: meetings
 excerpt: >
    Come eat pizza and hack stuff
