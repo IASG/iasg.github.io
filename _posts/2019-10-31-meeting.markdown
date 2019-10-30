@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "October 31th Meeting - Halloween CTF"
+date:   2019-10-31 11:17:00
+categories: meetings
+excerpt: >
+   Come eat pizza and hack stuff
+---
+
+
+
+Halloween CTF
+-----------------------------
+Tomorrow's meeting is our 3rd annual Halloween CTF, which will consist of a series of technical and non-technical challenges
+of all difficulty levels for participants to decrypt, hack, reverse-engineer, exploit, or do something else in order to gain
+points for their team of 1-4 people.
+
+The competition will run from 5:15-8PM in Coover 1012, followed by a walkthrough of the main challenges and prizes handed out
+to members of the top team(s), provided by No Starch Press (textbook company with awesome security/programming books).
+
+Non ISU students are allowed to compete and remote competing is an option, but you must be physically present + an ISU student
+to be prize eligible.
+
+We will be ordering pizza for everyone, so if you will be there please fill out this quick survey today if you haven't already
+so we know how much to get.
+
+https://docs.google.com/forms/d/1wtHWsNREmm3GAH2VluwiZODaOovzdn2BdH4z9DYwqdw/
+
+Make sure you bring a laptop with wifi + a linux partition/live boot/virtual machine (preferably kali or another hacking distro). 
+You can do some challenges in Windows/Mac but likely not all of them.
+
+Hope to see you all in Coover 1012 at 5:15PM Tomorrow!
+
