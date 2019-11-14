@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "October 31th Meeting - IDSes"
+date:   2019-11-14 11:17:00
+categories: meetings
+excerpt: >
+   How network threats are identified
+---
+
+
+
+Intrusion Detection Systems
+-----------------------------
+This Thursday Kole Swesey will be giving a presentation on intrusion detection systems (IDSes):
+
+    Knowing what attacks are hitting your servers is a critical aspect of information security. 
+    This week I will be giving an overview of what IDSes are & what they can do, ways they could be
+    evaded from an attacker's point of view, and explaining how they can be used in cyber defense competitions
+
+
+
