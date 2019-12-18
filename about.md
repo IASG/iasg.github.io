@@ -21,9 +21,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 5:45 PM every Thursday
+**Time:** 5:15 PM every Monday
 
-**Location:** Hoover 1312 for Fall 2019
+**Location:** Hoover 1312 for Soring 2020
 
 
 Mailing List Information
