@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "February 3rd Meeting - Active Directory Hacking"
+date:   2020-02-03 11:17:00
+categories: meetings
+excerpt: >
+   Presented by RSM
+---
+
+
+
+Active Directory Hacking
+-----------------------------
+This Monday we will have a presentation with pizza from RSM on hacking Active Directory:
+
+    RSM is presenting on Active Directory Attacks Part 1, walking through initial access 
+    on a network using the most common paths to reach domain administrator. We will be doing
+    a deep dive on every step, sometimes even including exact commands to be run on the slides.
+
+
