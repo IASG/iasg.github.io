@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "February 10th Meeting - Open Source Intelligence"
+date:   2020-02-10 11:17:00
+categories: meetings
+excerpt: >
+   Presented by Jack Potter
+---
+
+
+
+Open Source Intelligence
+-----------------------------
+Tonight we will have a presentation from Jack Potter on Open Source Intelligence:
+
+    Learn to leverage open-source intelligence (OSINT) to do everything from footprinting 
+    a target without touching it before attacking to finding interesting files on the open web. 
+    This talk will focus on Shodan and Google, and will also include some other useful sources
+    of online open source intelligence.
