@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "March 2nd Meeting - Some Fun Projects"
+date:   2020-03-02 11:17:00
+categories: meetings
+excerpt: >
+   Presented by Trevor Kems
+---
+
+
+
+Fun Projects
+-----------------------------
+Tonight we will have a presentation from Trevor Kems on Fun Projects:
+
+  Cameras, Refrigerators, and Smart Home devices, what doesn't have WiFi in it these days? 
+  Let's look into why physical device security impacts all kinds of devices that anyone can
+  learn to tinker with, even on a college student budget!
