@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "March 9nd Meeting - AWS: Not Just for Silicon Valley Hype-Lords"
+date:   2020-03-09 11:17:00
+categories: meetings
+excerpt: >
+   Presented by Logan Woolery
+---
+
+
+
+AWS: Not Just for Silicon Valley Hype-Lords
+-----------------------------
+Tonight we will have a presentation from Logan Woolery on Hacking in AWS:
+
+  Most people know AWS from it's major conferences, ubiquitous laptop sticker presence, 
+  and annoying fanboys. However, if you scrape off some of the marketing buzzwords, it 
+  starts to look like a hackers toolkit in the making. We will take a look at some of 
+  the ways to use AWS to have fun. 
+
+Afterwards we will have a beginners night from Joel Wacker on Radios: The Wild Wild West. The old, and the cool.
