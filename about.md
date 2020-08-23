@@ -21,9 +21,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 5:15 PM every Monday
+**Time:** 5:00 PM every Tuesday
 
-**Location:** Hoover 1312 for Soring 2020
+**Location:** Online
 
 
 Mailing List Information
