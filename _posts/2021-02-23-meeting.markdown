@@ -1,0 +1,20 @@
+---
+layout:  post
+title:  "SolarWind Incident Response Info Session"
+date:  2021-02-23 17:00:00
+categories: meetings
+excerpt: > 
+  Presented by Rich Tener  
+---
+
+
+
+SolarWind Incident Response by ISU 
+-------------
+An information session was held by the Director of Information Security at ISU. 
+The presentation was mainly about ISU's Infosec team's response to the SolarWind incident. The presenter discussed about the responses, countermeasures, hashings, and lessons learned via this incident.
+The presenter also shared about ISU's network traffic, DNS logging and how the InfoSec team monitors it. 
+
+FUN FACT: "ISU generates 5 million DNS queries every 5 minute!"
+
+For more information on SolarWind incident, here's a link: [SolarWind Security Breach](https://www.it.iastate.edu/news/2020/12/iowa-state-university-affected-solarwinds-security-breach) 
