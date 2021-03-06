@@ -12,6 +12,7 @@ excerpt: >
 Hack The Box Personal Project  
 ------------- 
 This week the club president gave a talk about their current work in a Hack the Box Pro Lab.
+
 The presentation focused on the pen tester methodology and how to work through challenging problems, particularly with crafting phishing email payloads in HTA files.
 
 Afterwards, there was a discussion on how to build a home lab for cyber security testing. 
