@@ -1,0 +1,16 @@
+---
+layout:  post
+title:  "Hack The Box"
+date:  2021-03-23 17:00:00
+categories: meetings
+excerpt: > 
+  Presented by Nic Losby & Jack Potter  
+---
+
+
+
+Hack The Box by RSM  
+------------- 
+This week RSM representatives Nic Losby and Jack Potter presented about "Hack the Box", a wesite that host vulnerable VMs for cybersec students to try out. 
+The website requires you to hack your way into the vulnerable hosts.They showed an example walkthrough hacking their way into a host that runs Windows OS.
+Finally, they answered few questions from students regarding working environment and internship positions in RSM. 
