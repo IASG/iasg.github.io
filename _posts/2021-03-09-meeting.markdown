@@ -1,0 +1,14 @@
+---
+layout:  post
+title:  "Working In CyberSecurity"
+date:  2021-03-09 17:00:00
+categories: meetings
+excerpt: > 
+  Presented by Technology Association of Iowa 
+---
+
+
+
+Working in CyberSecurity  
+------------- 
+Presentation from Technology Association of Iowa gave a presentation about working in cyber security in the midwest and in particular Iowa. At the end of the presentation Mike Perin and Brandi Lister shared their experience with cyber security in Iowa and the health care sector. 
