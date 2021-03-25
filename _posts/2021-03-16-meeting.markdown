@@ -1,0 +1,14 @@
+---
+layout:  post
+title:  "Open Source Intelligence (OSINT)"
+date:  2021-03-16 17:00:00
+categories: meetings
+excerpt: > 
+  Presented by Brandon Evans 
+---
+
+
+
+Open Source Intelligence (OSINT)
+------------- 
+This week member of the club Brandon Evans gave an in depth introduction to open source intelligence. His talk covered what OSINT is and how it is useful in cyber security. He finished up by giving several examples of his current projects as examples.
