@@ -21,9 +21,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 5:00 PM every Tuesday
+**Time:** 6:00 PM every Monday
 
-**Location:** Online
+**Location:** Hoover 1322
 
 
 Mailing List Information
