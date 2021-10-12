@@ -8,9 +8,9 @@ include-in-navbar: yes
 Read our [Equipment Policy](/equipment-policy/index.html) to find out how you
 can rent out and use our equipment.
 
-## *(New)* IASG T-Shirts
+## IASG T-Shirts
 For sale, not for rent! Pay $20 to the IASG treasurer at any meeting. Get them
-while they're hot!!
+while they're hot!! Assuming we can find them.
 ![IASG T-Shirt]({{ "/assets/images/notYourFathersPen.PNG" | absolute_url }})
 
 ## Wireless Adapter
