@@ -21,9 +21,9 @@ and building information systems.
 Meeting Information
 -------------------
 
-**Time:** 6:00 PM every Monday
+**Time:** 6:00 PM every Thursday for Spring 2022
 
-**Location:** Hoover 1322
+**Location:** TBD
 
 
 Mailing List Information
