@@ -23,7 +23,7 @@ Meeting Information
 
 **Time:** 6:00 PM every Thursday for Spring 2022
 
-**Location:** TBD 
+**Location:** Coover 1016
 
 
 Mailing List Information
