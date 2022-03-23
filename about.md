@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About IASG
-permalink: /about/
+permalink: /
 include-in-navbar: yes
 ---
 The Information Assurance Student Group (IASG), a part of the
-Information Assurance Center at Iowa State University,
+Center for Cybersecurity Innovation & Outreach at Iowa State University,
 holds weekly meetings on information
 security topics. These meetings consist of conference-style
 presentations about various InfoSec-related topics including
@@ -25,6 +25,14 @@ Meeting Information
 
 **Location:** Coover 1016
 
+Slack Chatroom
+--------------
+
+The primary communication that IASG uses outside of meetings is the Slack channel. This [Slack](https://iasg.slack.com) chatroom is used to hang out and share information
+between meetings. It's worth joining, since members will post cool
+tricks, news stories, and other infosec things in the channel. All you need to do is
+sign up at <https://iasg.slack.com> with
+an @iastate.edu email address.
 
 Mailing List Information
 ------------------------
@@ -35,15 +43,6 @@ other information. Send a blank e-mail to <iasg-join@iastate.edu> to join the ma
 Previous Meeting Slides
 ------------------------
 The slides to the previous meetings can be found [here](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing).
-
-Slack Chatroom
---------------
-
-IASG uses a [Slack](https://iasg.slack.com) chatroom to hang out and share information
-between meetings. It's worth joining, since members will post cool
-tricks, news stories, and other infosec things in the channel. All you need to do is
-sign up at <https://iasg.slack.com> with
-an @iastate.edu email address.
 
 Contact Information
 --------------
