@@ -6,8 +6,9 @@ include-in-navbar: yes
 ---
 
 This page is currently out of date, and a new inventory is being taken of available equipment. If there are specific questions feel free to reach out to <{{ site.email }}> and ask.
-\
-\
+<br>
+<br>
+<br>
 
 Read our [Equipment Policy](/equipment-policy/index.html) to find out how you
 can rent out and use our equipment.
