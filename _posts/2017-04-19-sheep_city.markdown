@@ -10,6 +10,8 @@ excerpt: >
 Sheep City
 --
 
+**As of 29 March 2022 This project is no longer available. However attempts are being made to restore, and improve, the project.**
+
 In fall 2016, IASG purchased materials for the Sheep City project. The project consists
 of 3 small wireless routers and 3 Raspberry Pi 3s acting as wireless clients, as well as
 an additional Pi to act as the "ISP". The project is a small scale model of a city street

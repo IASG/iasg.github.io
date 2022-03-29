@@ -8,6 +8,9 @@ excerpt: >
 ---
 IASG ISELab
 --
+
+**This is currently unavailable as of 29 March 2022, but this page is being left as a historical reminder**
+
 Similar to the Information Assurance classes, IASG has been provided with access to a virtualized environment for club members to play around in. Attacks can be conducted
 within this environment without worrying about affecting the real world.
 
