@@ -11,12 +11,12 @@ include-in-navbar: yes
 
 ## TP-Link Wireless Adapter
 
-![TP-Link WiFi Card]({{ site.url }}/assets/rentals/tplinkwifi_rental.JPG)
+![TP-Link WiFi Card](/assets/rentals/tplinkwifi_rental.JPG)
 2.4GHz all-mode (including monitor mode) USB wireless adapters.
 
 ## HackRF One
 
-![HackRF One]({{ site.url }}/assets/rentals/hackrf_rental.JPG)
+![HackRF One](/assets/rentals/hackrf_rental.JPG)
 VHF/UHF Rx/Tx software defined radio. Subject to transmitter restrictions.
 
 # **Now onto the available equipment!**
@@ -36,7 +36,7 @@ Sizes Available:
 - 2X-Large: 4
 - 3X-Large: 3
 
-![IASG T-Shirt]({{ "/assets/images/notYourFathersPen.PNG" | absolute_url }})
+![IASG T-Shirt](/assets/images/notYourFathersPen.PNG)
 
 ## ALFA USB Wifi Adapter
 
@@ -72,7 +72,7 @@ This is an antenna made by Hawking Technology. We know very little about what th
 
 ## Flip Camera & Tripod
 
-![Camera Tripod]({{ site.url }}/assets/rentals/cameratripod_rental.JPG)
+![Camera Tripod](/assets/rentals/cameratripod_rental.JPG)
 This is an outdated picture, show up to the meetings to see what the new one looks like!! Historically used to record IASG meetings.
 
 ## Single IDE Cable
