@@ -316,7 +316,7 @@ $on-laptop:        800px;
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-// Media query to check for mobile and change the size of the title to fit nicely
+// Media query to check for mobile and change the margins on the footer columns to not overflow
 @media (max-width: 800px) {
   .footer-col-wrapper {
     font-size: 15px;
