@@ -67,7 +67,7 @@ A waterproof antenna rated for outdoor use, with an adapter to change what it ca
 ## Hawkings Technology Antenna
 
 Picture Currently Unavailable, but will be available soon.
-![Hawking Technology Antenna](/assets/rentals/hawking_rental.JPG)
+![Hawking Technology Antenna](/assets/rentals/hawking_rental.jpg)
 This is an antenna made by Hawking Technology. We know very little about what this antenna is rated at, so if you know something feel free to reach out! There is 1 available.
 
 ## Flip Camera & Tripod
@@ -78,5 +78,5 @@ This is an outdated picture, show up to the meetings to see what the new one loo
 ## Single IDE Cable
 
 Picture Currently Unavailable, but will be available soon.
-![Single IDE Cable](/assets/rentals/idecable_rental.JPG)
+![Single IDE Cable](/assets/rentals/IDEcable_rental.jpg)
 A single untested IDE cable. No idea where it came from, no idea where it's going. All with no devices to use it with. There is 1 available.
