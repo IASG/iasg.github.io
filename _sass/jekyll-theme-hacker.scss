@@ -48,7 +48,7 @@ header {
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 -20px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
@@ -59,9 +59,15 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+// Media query to check for mobile and change the size of the title to fit nicely
+@media (max-width: 800px) {
+  header h1{
+    font-size: 28px;
+  }
+}
+
 header h1:before {
   content: "./";
-  font-size: 30px;
 }
 
 header h2 {
@@ -99,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h1 {
   font-size: 30px;
+  margin: 0 0 0 0px;
 }
 
 #main_content h2 {
@@ -309,6 +316,21 @@ $on-laptop:        800px;
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+// Media query to check for mobile and change the size of the title to fit nicely
+@media (max-width: 800px) {
+  .footer-col-wrapper {
+    font-size: 15px;
+    margin-left: -5px;
+  }
+  .social-media-list{
+    margin-left: -$spacing-unit * 3 / 2 + 5;
+  }
+
+  .contact-list{
+    margin-left: -$spacing-unit * 3 / 2 + 5;
+  }
+}
+
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
@@ -328,6 +350,7 @@ $on-laptop:        800px;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+
 }
 
 .wrapper {
