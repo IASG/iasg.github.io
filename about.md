@@ -17,8 +17,8 @@ We often feature guest speakers from the security field, as well
 as offer introductory-level presentations for those interested in
 security, but without an extensive background in designing
 and building information systems.
-    
-Meeting Information
+
+**Meeting Information**
 -------------------
 
 **Time:** 6:00 PM every Thursday for Spring 2022
