@@ -29,10 +29,10 @@ For sale, not for rent! Pay $20 to the IASG treasurer at any meeting. Get them w
 
 Sizes Available:
 
-- Small: 3
+- Small: 2
 - Medium: 0
-- Large: 4
-- X-Large: 5
+- Large: 1
+- X-Large: 4
 - 2X-Large: 4
 - 3X-Large: 3
 
