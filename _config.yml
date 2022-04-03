@@ -14,6 +14,10 @@ youtube_channel: UC-rLOtGfHGx9N1mlNNEwJNQ
 slack_workspace: iasg
 theme: jekyll-theme-hacker
 
+#Plugin that allows for automatic redirecting
+plugins:
+    - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 

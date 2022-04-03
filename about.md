@@ -3,6 +3,8 @@ layout: page
 title: About IASG
 permalink: /
 include-in-navbar: yes
+redirect_from: 
+    - /about/
 ---
 The Information Assurance Student Group (IASG), a part of the
 Center for Cybersecurity Innovation & Outreach at Iowa State University,
