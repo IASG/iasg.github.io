@@ -44,8 +44,11 @@ other information. Send a blank e-mail to <iasg-join@iastate.edu> to join the ma
 
 Previous Meeting Slides
 ------------------------
-The slides to the previous meetings can be found [here](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing).
+
+Many of the previous meetings have recordings availbable on the [Youtube channel](https://www.youtube.com/channel/UC-rLOtGfHGx9N1mlNNEwJNQ). If you would like the slides from the meetings, feel free to email <{{ site.email }}>, or talk to the cabinet about getting the slides. 
+<!-- The slides to the previous meetings can be found [here](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing). -->
 
 Contact Information
 --------------
-Contact <{{ site.email }}> if you have any questions or suggestions.
+
+Contact <{{ site.email }}> or the cabinet in person if you have any questions or suggestions.
