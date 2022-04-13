@@ -52,7 +52,15 @@ Alongside the ALFA Wifi adapters, we have ALFA indoor antennas to boost the rang
 ## Backdoors and Breachs Card Game
 
 ![Backdoors and Breaches Deck](/assets/rentals/backdoorsandbreaches.png)
-The role playing card game from Black Hills Security Team. We have a few of these decks in our inventory that can be played with at meetings. Just ask ahead so a copy can be brought to play! 
+The role playing card game from Black Hills Security Team. We have a few of these decks in our inventory that can be played with at meetings. Just ask ahead so a copy can be brought to play!
+
+## Hak5 USB Rubber Ducky
+
+![Hak5 USB Rubber Ducky](/assets/rentals/hak5ducky_rental.png)
+The infamous Rubber Ducky keystroke injection tool from Hak5. Acts as a keyboard and mouse and is programmed in duckyscript. Some useful links for the device are included. The club owns 1, with it currently being rented out.
+<br>[Online duckyscript Encoder](https://shop.hak5.org/pages/ducky-encoder)
+<br>[Hak5 Official Documents](https://docs.hak5.org/usb-rubber-ducky-1/)
+<br>[Hak5 Payload Library](https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library)
 
 ## Software Defined Radio
 
@@ -69,10 +77,14 @@ A waterproof antenna rated for outdoor use, with an adapter to change what it ca
 ![Hawking Technology Antenna](/assets/rentals/hawking_rental.jpg)
 This is an antenna made by Hawking Technology. We know very little about what this antenna is rated at, so if you know something feel free to reach out! There is 1 available.
 
-## Flip Camera & Tripod
+## Flip Camera
 
 ![Camera Tripod](/assets/rentals/cameratripod_rental.JPG)
-This is an outdated picture, show up to the meetings to see what the new one looks like!! Historically used to record IASG meetings.
+This untested Cisco Flip Camera can be checked out for use as a camera if needed.
+
+## Canon Camera, Equipment, and Tripod
+
+The camera equipment used to record meetings, normally not available to rent, but an exception could be made if a good cause is found. There is no picture at this time, but you can come see it at the meetings!
 
 ## Single IDE Cable
 
