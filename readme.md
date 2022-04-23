@@ -7,12 +7,14 @@ If you are looking to download and test the site locally clone the repo into a d
 On a fresh installation of Ubuntu WSL2, the steps are
 
 1. Clone the repo ```git clone https://github.com/IASG/iasg.github.io```
-2. Install Ruby development environment, and bundler ```sudo apt install ruby-dev ruby-bundler```
-3. Install the gems with ```bundle install```
-4. Serve the website to be viewed on the Windows desktop ```bundle exec jekyll serve```
-5. Connect to localhost:4000 in a browser to view the website
-6. If the website is serving correctly in WSL, but not viewable in Windows, you may need to add ```--host 0.0.0.0``` to the ```bundle exec jekyll serve``` command. In the event WSL is not sharing localhost correctly.
-7. Then connect with the IP address of the WSL interface on the correct port
+   -https will no logner allow changes so use ```git@github.com:IASG/iasg.github.io.git``` after setting up ssh keys.[docs]
+   (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+3. Install Ruby development environment, and bundler ```sudo apt install ruby-dev ruby-bundler```
+4. Install the gems with ```bundle install```
+5. Serve the website to be viewed on the Windows desktop ```bundle exec jekyll serve```
+6. Connect to localhost:4000 in a browser to view the website
+7. If the website is serving correctly in WSL, but not viewable in Windows, you may need to add ```--host 0.0.0.0``` to the ```bundle exec jekyll serve``` command. In the event WSL is not sharing localhost correctly.
+8. Then connect with the IP address of the WSL interface on the correct port
 
 For other operating systems, the steps are roughly the same with installing Ruby and Bundler. Then installing the gems with ```bundle install``` and serving the website with ```bundle exec jekyll serve```.
 
