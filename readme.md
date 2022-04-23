@@ -7,7 +7,7 @@ If you are looking to download and test the site locally clone the repo into a d
 On a fresh installation of Ubuntu WSL2, the steps are
 
 1. Clone the repo ```git clone https://github.com/IASG/iasg.github.io```
-   Note: https will no logner allow changes so use ```git@github.com:IASG/iasg.github.io.git``` after setting up ssh keys.
+   Note: if you are going to submit PRs you will need to use ```git@github.com:IASG/iasg.github.io.git``` after setting up ssh keys.
    https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 3. Install Ruby development environment, and bundler ```sudo apt install ruby-dev ruby-bundler```
 4. Install the gems with ```bundle install```
