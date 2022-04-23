@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 850px;
   margin: 0 auto;
 }
 
@@ -67,7 +67,7 @@ header h1 {
   }
 }
 
-header h1:before {
+#siteTitle:before {
   content: "./";
 }
 
@@ -217,7 +217,8 @@ hr {
 }
 
 .btn:hover {
-  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
+  // background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
+  background: rgba(40, 40, 40, 0.6),
 }
 
 .btn .icon {
