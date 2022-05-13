@@ -22,10 +22,10 @@ and building information systems.
 
 **Meeting Information**
 -------------------
+There are not meetings over the summer. Check back in the fall for updated meeting information.<br>
+**Time:** TBD
 
-**Time:** 6:00 PM every Thursday for Spring 2022
-
-**Location:** Coover 1016
+**Location:** TBD
 
 Slack Chatroom
 --------------
