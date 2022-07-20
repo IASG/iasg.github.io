@@ -18,4 +18,4 @@ You can access the environment through our VPN, SSH hop, or web shell and web br
 
 To get started, visit [https://iasg.iac.iastate.edu/iselab](https://iasg.iac.iastate.edu/iselab) and register for an account.
 
-For any issues, reach us in the #iselab channel on [Slack](https://iasg.slack.com) or email us at [iasg-cabinet@iastate.edu](mailto:iasg-cabinet@iastate.edu).
+For any issues, reach us in the #iselab channel on [Discord](https://discord.gg/3xxec7V5zN) or email us at [iasg-cabinet@iastate.edu](mailto:iasg-cabinet@iastate.edu).

@@ -25,7 +25,7 @@ Room for Fall 2015 TBA
 ----------------------
 
 We don't yet have our room assignment for Fall. If you have any strong feelings
-about what the room should be like, mention it in [Slack](https://iasg.slack.com) or
+about what the room should be like, mention it in [Discord](https://discord.gg/3xxec7V5zN) or
 send us an email.
 
 Unless we see a very strong reason to change it, our meetings will be held at our usual
