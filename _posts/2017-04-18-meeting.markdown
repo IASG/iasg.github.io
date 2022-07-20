@@ -17,6 +17,9 @@ and used just for this: [GitHub](https://github.com/mgerst/pyquiz)
 
 End of Semester
 ---------------
+
+** Some links may no logner work as this page was made in 2017 **
+
 This summer, if you're looking to learn more about information security, here are some resources:
 - [Past IASG Presentation Slides](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing)
 - [IASG YouTube Channel](https://www.youtube.com/channel/UC-rLOtGfHGx9N1mlNNEwJNQ)
@@ -27,4 +30,4 @@ This summer, if you're looking to learn more about information security, here ar
   - [Over the Wire](http://overthewire.org/wargames/)
   - [VulnHub](https://www.vulnhub.com/)
 
-Hope to see you all at IASG in the fall! We'll be hanging out on [Slack](https://iasg.slack.com) if you'd like to join in!
+Hope to see you all at IASG in the fall! We'll be hanging out on [Discord](https://discord.gg/3xxec7V5zN) if you'd like to join in!

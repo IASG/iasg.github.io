@@ -27,5 +27,5 @@ There will be something for people of all knowledge levels to work on - from
 experienced hackers to people just getting into security - you don't want to
 miss this fun, competitive, and educational competition. 
 
-Hop on slack (iasg.slack.com) or email us at iasg-cabinet@iastate.edu if you
+Hop on [Discord](https://discord.gg/3xxec7V5zN) or email us at iasg-cabinet@iastate.edu if you
 have any questions.
