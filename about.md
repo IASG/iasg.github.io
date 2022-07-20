@@ -27,14 +27,12 @@ There are not meetings over the summer. Check back in the fall for updated meeti
 
 **Location:** TBD
 
-Slack Chatroom
+Discord
 --------------
 
-The primary communication that IASG uses outside of meetings is the Slack channel. This [Slack](https://iasg.slack.com) chatroom is used to hang out and share information
+The primary communication that IASG uses outside of meetings is the discord channel. This [Discord](https://discord.gg/3xxec7V5zN) server is used to hang out and share information
 between meetings. It's worth joining, since members will post cool
-tricks, news stories, and other infosec things in the channel. All you need to do is
-sign up at <https://iasg.slack.com> with
-an @iastate.edu email address.
+tricks, news stories, and other infosec things in the channel. 
 
 Mailing List Information
 ------------------------
@@ -46,7 +44,7 @@ Previous Meeting Slides
 ------------------------
 
 Many of the previous meetings have recordings availbable on the [Youtube channel](https://www.youtube.com/channel/UC-rLOtGfHGx9N1mlNNEwJNQ). If you would like the slides from the meetings, feel free to email <{{ site.email }}>, or talk to the cabinet about getting the slides. 
-<!-- The slides to the previous meetings can be found [here](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing). -->
+<!-- The slides to the previous meetings can (used to) be found [here](https://drive.google.com/drive/folders/0By6whaxOBgbFLUNJRWFhbDJIZGM?usp=sharing). -->
 
 Contact Information
 --------------
