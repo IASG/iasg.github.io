@@ -16,8 +16,8 @@
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <i class="fa fa-github"></i>
+            <a target="_blank" href="https://github.com/{{ site.github_username }}">
+              <i class="fab fa-github"></i>
               <span class="username">GitHub</span>
             </a>
           </li>
@@ -25,7 +25,7 @@
 
           {% if site.twitter_username %}
           <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
+            <a  target="_blank"href="https://twitter.com/{{ site.twitter_username }}">
               <span class="icon  icon--twitter">
                 <svg viewBox="0 0 16 16">
                   <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
@@ -39,20 +39,21 @@
           {% endif %}
           {% if site.facebook_page %}
           <li>
-            <a href="https://www.facebook.com/{{ site.facebook_page }}">
-              <i class="fa fa-facebook"></i> Facebook
+            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_page }}">
+              <i class="fab fa-facebook"></i> Facebook
             </a>
           </li>
         {% endif %}
         {% if site.youtube_channel %}
           <li>
-            <a href="https://youtube.com/channel/{{ site.youtube_channel }}">
-              <i class="fa fa-youtube"></i> YouTube
+            <a target="_blank" href="https://youtube.com/channel/{{ site.youtube_channel }}">
+              <i class="fab fa-youtube"></i> YouTube
             </a>
           </li>
         {% endif %}
         <li>
-          <a href="{{ site.discord }}"> Discord
+          <a target="_blank" href="{{ site.discord }}">
+            <i class="fab fa-discord"></i> Discord
           </a>
         </li>
         </ul>
