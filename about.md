@@ -20,12 +20,12 @@ as offer introductory-level presentations for those interested in
 security, but without an extensive background in designing
 and building information systems.
 
-**Meeting Information**
+**Meeting Information - Fall 2022**
 -------------------
-There are not meetings over the summer. Check back in the fall for updated meeting information.<br>
-**Time:** TBD
 
-**Location:** TBD
+**Time:** Thursdays from 6:00 - 7:00pm
+
+**Location:** Coover 1011
 
 Discord
 --------------
