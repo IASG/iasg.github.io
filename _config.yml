@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:" TODO: update the
     information security and holds weekly meetings for students interested in the
     InfoSec field. <span style="color:#b5e853"> </span> <a href="https://discord.gg/3xxec7V5zN">Join our discord!</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://iasg.iac.iastate.edu" # the base hostname & protocol for your site
+url: "http://iasg.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: IASG
 facebook_page: infasgroup
