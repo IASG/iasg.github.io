@@ -3,6 +3,11 @@ layout: default
 title: Puzzlers
 include-in-navbar: yes
 puzzlers: 
+  - file: whatami.png
+    date: 2022-08-28
+    category: linux
+    description: Can you help me read this file?
+    difficulty: Medium
   - file: easy.png
     date: 2018-10-02
     category: Steganography
@@ -19,13 +24,15 @@ puzzlers:
     date: 2018-10-09
     category: Steganography
     difficulty: Hard
-  - file: pubkey.pem
+  - file: pubkey.pe
     date: 2018-10-16
-    category: Crypto
+    category: crypto
+    description: Crypto
     difficulty: Medium-Hard
   - file: flag.enc
     date: 2018-10-16
-    category: Crypto
+    category: crypto
+    description: Crypto
     difficulty: Medium-Hard
   - file: Glenda.png
     date: 2019-02-05
@@ -33,11 +40,13 @@ puzzlers:
     difficulty: Easy
   - file: crackme.zip
     date: 2019-02-05
-    category: Password Cracking
+    category: cracking
+    description: Password Cracking
     difficulty: Easy-Medium
   - file: mixtape.zip
     date: 2019-02-05
-    category: Cipher/Scavenger Hunt/Encoding/General Nonsense
+    category: other
+    description: Cipher/Scavenger Hunt/Encoding/General Nonsense
     difficulty: Harder than it should be
 
 ---
@@ -51,23 +60,114 @@ puzzlers:
   </p>
 
   <hr/>
-  Date, category, and difficulty (relative to others in category).
+  <h2>Linux Skills</h2>
   <ul>
     {% for puzzler in page.puzzlers %}
-    <li>
-    <a href="{{ puzzler.file }}">{{ puzzler.date }}</a> {{ puzzler.category }}
-        ({{ puzzler.difficulty }})
-        {% if puzzler.spoilers %}
-        <span style="font-weight: bold;">SPOILERS:</span>
-        <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
-            Writeup</a> 
-            {% if puzzler.tarball %}
-             | <a target="_blank"
-                href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
-                Supporting Files</a>
-            {% endif %}
-        {% endif %}
-    </li>
+    {% if puzzler.category == "linux" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.description }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Cracking</h2>
+  <ul>
+    {% for puzzler in page.puzzlers %}
+    {% if puzzler.category == "cracking" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.description }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+
+  <h2>Steganography</h2>
+  <ul>
+    {% for puzzler in page.puzzlers %}
+    {% if puzzler.category == "Steganography" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.category }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Crypto</h2>
+  <ul>
+    {% for puzzler in page.puzzlers %}
+    {% if puzzler.category == "crypto" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.description }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Other</h2>
+  <ul>
+    {% for puzzler in page.puzzlers %}
+    {% if puzzler.category == "other" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.description }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
