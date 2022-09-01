@@ -17,5 +17,4 @@ _asset_bundler_cache
 _site
 
 # Other scripts
-/serve.sh
 /push.sh
