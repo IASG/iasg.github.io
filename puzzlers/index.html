@@ -3,56 +3,66 @@ layout: default
 title: Puzzlers
 include-in-navbar: yes
 puzzlers: 
-  - file: whatami.png
+  - file: challenges/2022-08-28/whatami.png
     date: 2022-08-28
     category: linux
     description: Can you help me read this file?
     difficulty: Medium
-  - file: magical
+  - file: challenges/2022-08-29/magical
     date: 2022-08-29
     category: linux
     description: Corrupt Magic
     difficulty: Medium
-  - file: easy.png
+  - file: challenges/2018-10-02/Steganography/easy.png
     date: 2018-10-02
     category: Steganography
     difficulty: Easy
-  - file: medium.png
+  - file: challenges/2018-10-02/Steganography/medium.png
     date: 2018-10-02
     category: Steganography
     difficulty: Medium
-  - file: easy.wav
+  - file: challenges/2019-10-06/Steganography/easy.wav
     date: 2018-10-09
     category: Steganography
     difficulty: easyish
-  - file: hard.wav
+  - file: challenges/2019-10-06/Steganography/hard.wav
     date: 2018-10-09
     category: Steganography
     difficulty: Hard
-  - file: pubkey.pem
+  - file: challenges/2018-10-16/crypto/pubkey.pem
     date: 2018-10-16
     category: crypto
     description: Crypto
     difficulty: Medium-Hard
-  - file: flag.enc
+  - file: challenges/2018-10-16/crypto/flag.enc
     date: 2018-10-16
     category: crypto
     description: Crypto
     difficulty: Medium-Hard
-  - file: Glenda.png
+  - file: challenges/2019-02-05/Glenda/Glenda.png
     date: 2019-02-05
     category: Steganography
     difficulty: Easy
-  - file: crackme.zip
+  - file: challenges/2019-02-05/crackme/crackme.zip
     date: 2019-02-05
     category: cracking
     description: Password Cracking
     difficulty: Easy-Medium
-  - file: mixtape.zip
+  - file: challenges/2019-02-05/mixtape/mixtape.zip
     date: 2019-02-05
     category: other
     description: Cipher/Scavenger Hunt/Encoding/General Nonsense
     difficulty: Harder than it should be
+  - file: challenges/2018-10-24/encoding/encode1.txt
+    date: 2018-10-24
+    category: encoding
+    description: Encoding1
+    difficulty: Unknown
+  - file: challenges/2018-10-24/encoding/encode2.txt
+    date: 2018-10-24
+    category: encoding
+    description: Encoding2
+    difficulty: Easy
 
 ---
 
@@ -116,6 +126,28 @@ puzzlers:
     {% if puzzler.category == "Steganography" %}
       <li>
       <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.category }}
+          ({{ puzzler.difficulty }})
+          {% if puzzler.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzler.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzler.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Encoding</h2>
+  <ul>
+    {% for puzzler in page.puzzlers %}
+    {% if puzzler.category == "encoding" %}
+      <li>
+      <a href="{{ puzzler.file }}" download>{{ puzzler.date }}</a> {{ puzzler.description }}
           ({{ puzzler.difficulty }})
           {% if puzzler.spoilers %}
           <span style="font-weight: bold;">SPOILERS:</span>
