@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: puzzler
 title: Puzzlers
 include-in-navbar: yes
 puzzlers: 
@@ -81,6 +81,52 @@ puzzlers:
 
   <hr/>
   <h2>Linux Skills</h2>
+  
+  <div class="puzzle-panel">
+  {% for puzzle in page.puzzlers %}
+    {% if puzzle.category == "linux" %}
+      <div class="puzzle-panel-internal">
+        <h3>{{ puzzle.name }}</h3>
+        <!-- <p>{{ puzzle.description }}</p> -->
+        <p>{{ puzzle.date }}</p>
+        {% if puzzle.spoilers %}
+          <span style="font-weight: bold;">SPOILERS:</span>
+          <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+              Writeup</a> 
+              {% if puzzle.tarball %}
+              | <a target="_blank"
+                  href="{{ puzzle.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                  Supporting Files</a>
+              {% endif %}
+          {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+  
+  <h2>Cracking</h2>
+  <div class="puzzle-panel">
+    {% for puzzle in page.puzzlers %}
+      {% if puzzle.category == "cracking" %}
+        <div class="puzzle-panel-internal">
+          <h3>{{ puzzle.name }}</h3>
+          <!-- <p>{{ puzzle.description }}</p> -->
+          {% if puzzle.spoilers %}
+            <span style="font-weight: bold;">SPOILERS:</span>
+            <a href="{{ puzzler.date | prepend: 'spoilers/' | append: '.html'}}">
+                Writeup</a> 
+                {% if puzzle.tarball %}
+                | <a target="_blank"
+                    href="{{ puzzle.date | prepend: 'spoilers/' | append: '.tar.gz'}}">
+                    Supporting Files</a>
+                {% endif %}
+            {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+
+<hr>
   <ul>
     {% for puzzler in page.puzzlers %}
     {% if puzzler.category == "linux" %}
