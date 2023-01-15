@@ -20,7 +20,7 @@ as offer introductory-level presentations for those interested in
 security, but without an extensive background in designing
 and building information systems.
 
-**Meeting Information - Fall 2022**
+**Meeting Information - Spring 2023**
 -------------------
 
 **Time:** Thursdays from 6:00 - 7:00pm
