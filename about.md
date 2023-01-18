@@ -25,7 +25,7 @@ and building information systems.
 
 **Time:** Thursdays from 6:00 - 7:00pm
 
-**Location:** Coover 1011
+**Location:** Coover 1012
 
 Discord
 --------------
