@@ -5,3 +5,5 @@ gem "github-pages"
 gem "jekyll-redirect-from"
 
 gemspec
+
+gem "webrick", "~> 1.7"
