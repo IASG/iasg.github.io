@@ -4,10 +4,10 @@ title:  "Burp Suite"
 date:   2023-01-30
 categories: meetings
 excerpt: >
-    Burp Suite
+    Burp Suite by David Wolfe
 ---
 
-Reverse Engineering
+Burp Suite Tools
 ---
 David Wolfe's Burp Suite Presentation. 
 David Wolfe, our very own president and cybersecurity expert, gave a presentation about Burp Suite, a web application security testing platform. In his talk, he highlighted the various features of the tool and demonstrated how it can be used to identify vulnerabilities in web applications. He explained how Burp Suite helps penetration testers and security researchers to find and exploit security flaws in websites and web applications. With his expertise and engaging delivery style, David was able to provide valuable insights into the world of web application security and educate the audience on the benefits of using Burp Suite. Below is the presentation is below if you want to learn more.
