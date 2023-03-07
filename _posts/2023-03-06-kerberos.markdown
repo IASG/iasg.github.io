@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "An Amusement Park"
+date:   2023-03-06
+categories: meetings
+excerpt: >
+    An Amusement Park by David Wolfe
+---
+
+Burp Suite Tools
+---
+David Wolfe's Kerberos Presentation
+
+David Wolfe, a cybersecurity expert and our club president, compares Kerberos to an amusement park, with multiple layers of authentication like multiple gates and restrictions for different resources, just as rides have height and weight restrictions.
+
+
+[Kerberos](/assets/meetingNotes/2023-03-06/Kerberos.pdf){:target="_blank"}
+
