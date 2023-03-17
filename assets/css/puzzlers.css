@@ -1,0 +1,31 @@
+
+.puzzle-panel {
+    display: inline-block; 
+    padding-bottom: 20px;
+  }
+
+  .puzzle-panel-internal {
+    background-color: grey; /* light background color */
+    border: 1px solid #ffffff; /* thin white border */
+    padding: 20px; /* add space around the content */
+    color: #b5e853; /* bright font color */
+
+    border: 1px solid #000000; /* thin black border */
+    box-shadow: 0 0 10px #000000; /* medium-sized, black shadow */
+
+    display: inline-block; /* display panels side by side */
+    border-radius: 10px; /* round the edges */
+
+    vertical-align: top;
+    text-align: center;
+
+    width: 200px; 
+    height: 175px;
+
+
+  }
+
+  /* .clickHere {
+    cursor: pointer;
+  } */
+  
