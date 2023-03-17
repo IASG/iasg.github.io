@@ -1,5 +1,7 @@
-        {% for page in site.pages %}
-          {% if page.include-in-navbar %}
-          <a class="btn" href="{{ page.url | prepend: site.baseurl }}" style="margin-bottom:10px;">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+{% for page in site.pages %}
+  {% if page.include-in-navbar %}
+    
+    <a class="btn" href="{{ page.url | prepend: site.baseurl }}" style="margin-bottom:10px;">{{ page.title }}</a>
+  {% endif %}
+{% endfor %}
+<a class="btn" href="https://iasg.github.io/CDCHelpSite/" style="margin-bottom:10px;">CDC Help</a>
