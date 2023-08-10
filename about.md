@@ -20,8 +20,7 @@ We often feature guest speakers from the security field, as well as offer introd
 Discord
 --------------
 
-The primary communication that IASG uses outside of meetings is our discord server. This [Discord](https://discord.gg/3xxec7V5zN) server is used to hang out and share information
-between meetings. It's worth joining, since members will post cool tricks, news stories, and other infosec things in the channel.
+The primary communication that IASG uses outside of meetings is our discord server. This [Discord](https://discord.gg/3xxec7V5zN) server is used to hang out and share information between meetings. It's worth joining, since members will post cool tricks, news stories, and other infosec things in the channel.
 
 Mailing List Information
 ------------------------
