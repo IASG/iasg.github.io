@@ -21,6 +21,11 @@ youtube_channel: UC-rLOtGfHGx9N1mlNNEwJNQ
 discord: https://discord.gg/3xxec7V5zN
 remote_theme: pages-themes/hacker@v0.2.0
 
+sponsors:
+    - name: "Collins Aerospace"
+      url: "https://www.collinsaerospace.com/"
+      image: "/assets/sponsors/collins-aerospace/logos/logo-white-transparent.png"
+
 #Plugin that allows for automatic redirecting
 plugins:
     - jekyll-redirect-from
