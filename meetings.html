@@ -7,13 +7,12 @@ include-in-navbar: yes
 
 <div class="home">
 
-  <h1 class="page-heading">Meetings - Fall 2023</h1>
+  <h1 class="page-heading">Meetings - {{ site.semester }}</h1>
 
   <div id="meeting_info">
-    <!-- Also change this in about.md -->
-    <p>Time: Mondays from 6:00 - 7:00pm</p>
+    <p>Time: {{ site.meeting_time }}</p>
 
-    <p>Location: TBD: Check our discord for the latest information</p>
+    <p>Location: {{ site.meeting_location }}</p>
   </div>
 
   <br>

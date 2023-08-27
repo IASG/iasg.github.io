@@ -1,26 +1,9 @@
 ---
 layout: page
-title: Equipment
+title: Available Equipment
 permalink: /equipment/
 include-in-navbar: yes
 ---
-
-# **Missing Items**
-
-**The following items are missing in action, if you know about where they have run off to, or who has taken them hostage please reach out to a cabinet member, so we can bring them home safely!**
-
-## TP-Link Wireless Adapter
-
-![TP-Link WiFi Card](/assets/rentals/tplinkwifi_rental.JPG)
-2.4GHz all-mode (including monitor mode) USB wireless adapters.
-
-## HackRF One
-
-![HackRF One](/assets/rentals/hackrf_rental.JPG)
-VHF/UHF Rx/Tx software defined radio. Subject to transmitter restrictions.
-
-# **Now onto the available equipment!**
-
 To start off, read our [Equipment Policy](/equipment-policy/index.html) to find out how you can rent out and use our equipment.
 
 ## IASG T-Shirts
@@ -37,6 +20,13 @@ Sizes Available:
 - 3X-Large: 3
 
 ![IASG T-Shirt](/assets/images/notYourFathersPen.PNG)
+
+## HackRF One
+
+![HackRF One](/assets/rentals/hackrf_rental.JPG)
+**WARNING** This device is capable of transmitting on frequencies that may be illegal to transmit on. Please be VERY aware of what frequencies and power levels you are allowed to transmit on **before** starting transmitting. IASG does not condone this device being used for illegal purposes.
+
+VHF/UHF Rx/Tx software defined radio. Everything you need to start playing with your RF protocols. We have a basic 75MHz - 1GHz antenna, but if a special antenna is desired, we will see what we can do about getting it. If borrowed, please always leave an antenna on the device when even close to using it. Receiving, and more so transmitting has the potential to damage the device if no antenna is attached.
 
 ## ALFA USB Wifi Adapter
 
