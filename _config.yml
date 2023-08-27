@@ -19,11 +19,12 @@ github_username: IASG
 facebook_page: infasgroup
 youtube_channel: UC-rLOtGfHGx9N1mlNNEwJNQ
 discord: https://discord.gg/3xxec7V5zN
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 
 #Plugin that allows for automatic redirecting
 plugins:
     - jekyll-redirect-from
+    - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
