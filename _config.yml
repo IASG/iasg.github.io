@@ -26,6 +26,11 @@ sponsors:
       url: "https://www.collinsaerospace.com/"
       image: "/assets/sponsors/collins-aerospace/logos/logo-white-transparent.png"
 
+sponsors:
+    - name: "Collins Aerospace"
+      url: "https://www.collinsaerospace.com/"
+      image: "/assets/sponsors/collins-aerospace/logos/logo-white-transparent.png"
+
 #Plugin that allows for automatic redirecting
 plugins:
     - jekyll-redirect-from
