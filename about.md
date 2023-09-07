@@ -6,7 +6,7 @@ include-in-navbar: yes
 redirect_from: 
     - /about/
 ---
-The Information Assurance Student Group (IASG), a part of the Center for Cybersecurity Innovation & Outreach at Iowa State University, holds weekly meetings on information security topics. These meetings consist of conference-style presentations about various InfoSec-related topics including hacking, exploits, recent vulnerabilities in the news, webapp vulnerabilities, and general hacker subjects such as radio, operating systems, and networking.
+The Information Assurance Student Group (IASG), a part of the Center for Cybersecurity Innovation & Outreach at Iowa State University, holds weekly meetings on cyber security topics. These meetings consist of conference-style presentations about various InfoSec-related topics including hacking, exploits, recent vulnerabilities in the news, webapp vulnerabilities, and general hacker subjects such as radio, operating systems, and networking.
 
 We often feature guest speakers from the security field, as well as offer introductory-level presentations for those interested in security, but without an extensive background in designing and building information systems.
 
@@ -20,7 +20,7 @@ We often feature guest speakers from the security field, as well as offer introd
 Discord
 --------------
 
-The primary communication that IASG uses outside of meetings is our discord server. This [Discord](https://discord.gg/3xxec7V5zN) server is used to hang out and share information between meetings. It's worth joining, since members will post cool tricks, news stories, and other infosec things in the channel.
+The primary communication that IASG uses outside of meetings is our discord server. This [Discord](https://discord.gg/3xxec7V5zN) server is used to hang out and share information between meetings. It's worth joining, since members will post cool tricks, news stories, and other cyber security related things throughout.
 
 Mailing List Information
 ------------------------

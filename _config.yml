@@ -4,8 +4,8 @@ email: iasg-cabinet@iastate.edu
 
 description: > # this means to ignore newlines until "baseurl:" TODO: update the span to hold meeting information once school starts again
     The Information Assurance Student Group (IASG) at Iowa State University is dedicated to
-    information security and holds weekly meetings for students interested in the
-    InfoSec field. <span style="color:#b5e853"> </span> <a href="https://discord.gg/3xxec7V5zN">Join our discord!</a>
+    cyber security and holds weekly meetings for students interested in the
+    Cyber Security field. <span style="color:#b5e853"> </span> <a href="https://discord.gg/3xxec7V5zN">Join our discord!</a>
 
 semester: "Fall 2023"
 meeting_time: "Monday from 6:00PM to 7:00PM"
