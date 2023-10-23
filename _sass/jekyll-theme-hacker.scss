@@ -1,9 +1,22 @@
 @import "rouge-base16-dark";
 
+// Variables
+$spacing-unit:     30px;
+
+$ideal-size:   850px;
+$footer-col-1-percent: 30%;
+$footer-col-2-percent: 20%;
+$footer-col-3-percent: 50%;
+$hacker-green: #b5e853;
+
+#siteTitle:before {
+  content: "./";
+}
+
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
+  background: #151515 0 0;
   color: #eaeaea;
   font-size: 16px;
   line-height: 1.5;
@@ -14,7 +27,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 850px;
+  max-width: $ideal-size;
   margin: 0 auto;
 }
 
@@ -40,7 +53,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed $hacker-green;
   padding: 20px 0 0 0;
   margin: 0 0 40px 0;
 }
@@ -51,7 +64,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: $hacker-green;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -59,16 +72,12 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
-// Media query to check for mobile and change the size of the title to fit nicely
-@media (max-width: 800px) {
+// Media query to check for being smaller than the ideal size, and adjust the font size accordingly
+@media (max-width: $ideal-size) {
   header h1{
     font-size: 28px;
     margin: 0 0 0 -20px;
   }
-}
-
-#siteTitle:before {
-  content: "./";
 }
 
 header h2 {
@@ -99,10 +108,18 @@ header h2 {
 /* Main Content
 */
 
+.post-header {
+  width: 100%;
+  margin: 0 0 40px 0;
+  padding: 20px 0 0 0;
+  border-bottom: 1px dashed $hacker-green;
+}
+
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
 }
+
 section img {
   max-width: 100%
 }
@@ -110,7 +127,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: $hacker-green;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -152,10 +169,6 @@ dt {
   font-weight: bold;
 }
 
-ul li {
-  list-style-image:url('../images/bullet.png');
-}
-
 blockquote {
   color: #aaa;
   padding-left: 10px;
@@ -167,9 +180,8 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #b5e853;
+  color: $hacker-green;
   border-radius: 2px;
-  text-wrap: normal;
   overflow: auto;
   overflow-y: hidden;
 }
@@ -181,7 +193,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed $hacker-green;
   padding: 5px 10px;
 }
 
@@ -192,8 +204,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed $hacker-green;
+  color: $hacker-green;
 }
 
 /* Buttons
@@ -225,12 +237,6 @@ hr {
   width: 16px;
   height: 16px;
   margin: 1px 8px 0 0;
-  float: left;
-}
-
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
 
 /* Links
@@ -257,129 +263,111 @@ a {
   zoom:1;
 }
 
-/** 
- * Stuff ported from the old website
- */
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-                @content;
-    }
-}
-
-
 /**
  * Site footer
  */
 .site-footer {
-	border-top: 1px dashed #b5e853;
-    padding: $spacing-unit 0;
+	border-top: 1px dashed $hacker-green;
+  padding: 20px 0;
+}
+
+.footer-wrapper {
+  max-width: -webkit-calc(#{$ideal-size});
+  max-width:         calc(#{$ideal-size});
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
 }
 
 .footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
+  font-size: 18px;
+  margin-bottom: 0px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    margin-left: -$spacing-unit * 3 / 2;
+  font-size: 15px;
+  overflow: hidden;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(#{$footer-col-1-percent});
+  width:         calc(#{$footer-col-1-percent});
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(#{$footer-col-2-percent});
+  width:         calc(#{$footer-col-2-percent});
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(#{$footer-col-3-percent});
+  width:         calc(#{$footer-col-3-percent});
 }
 
-// Media query to check for mobile and change the margins on the footer columns to not overflow
-@media (max-width: 800px) {
-  .footer-col-wrapper {
-    font-size: 15px;
-    margin-left: -5px;
+// Turn off float to make the columns stack if smaller than the ideal max size
+@media screen and (max-width: $ideal-size) {
+  .footer-col-1,
+  .footer-col-2,
+  .footer-col-3 {
+    width: -webkit-calc(100%);
+    width:         calc(100%);
   }
-  .social-media-list{
-    margin-left: -$spacing-unit * 3 / 2 + 5;
+
+  // Turn off float to make the columns stack if smaller than the ideal max size
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100%);
+    width:         calc(100%);
   }
+}
 
-  .contact-list{
-    margin-left: -$spacing-unit * 3 / 2 + 5;
+.footer-contact-list,
+.footer-social-media-list {
+  list-style: none;
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+.footer-description {
+  margin-bottom: 0px;
+}
+
+.footer-sponsor-heading {
+  margin-bottom: 15px;
+  border-bottom: 1px dashed;
+}
+
+@media screen and (max-width: $ideal-size) {
+  .footer-sponsor-heading {
+    padding-top: 20px;
   }
 }
 
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
+.footer-sponsor {
+  display: block;
+  margin-bottom: 20px;
 
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+  a {
+    text-decoration: none;
+  }
 }
 
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-
+.footer-sponsor-name {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 10px;
 }
 
-.wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    //@extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+.footer-sponsor-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
